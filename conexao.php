@@ -1,7 +1,7 @@
 <?php
 
 $hostname = "localhost";
-$bancodedados = "localiza_alagamento_bd";
+$bancodedados = "localiza_aloagamento_bd";
 $usuario = "root";
 $senha = "";
 
