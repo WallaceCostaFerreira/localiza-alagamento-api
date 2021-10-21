@@ -1,15 +1,17 @@
 <?php 
     include_once('conexao.php');
     require_once("gerar_logs.php");
-    logMsg("Iniciando amarzenamento de reporte...");
+    logMsg("Iniciando armazenamento de reporte...");
 
-    logMsg("Tentando consultar WerbService...", 'warning');
+    logMsg("Tentando consultar WebService...", 'warning');
+    
     //Pegando dados do web service
     $link = "http://servicos.cptec.inpe.br/XML/estacao/SBSP/condicoesAtuais.xml";
     $xml = simplexml_load_file($link);
+
     logMsg("Dados CPTEC (Condições Atuais)...");
 
-    logMsg("Ultima Atualização Climatica: ".$xml -> atualizacao);
+    logMsg("Última Atualização Climatica: ".$xml -> atualizacao);
     logMsg("Pressão: ".$xml -> pressao);
     logMsg("Temperatura: ".$xml -> temperatura);
     logMsg("Tempo: ".$xml -> tempo);
@@ -38,7 +40,7 @@
                     '".$xml -> visibilidade."')";
 
     if (mysqli_query($mysqli, $sql)) {
-        logMsg("Dados Cadastrado com sucesso...");
+        logMsg("Dados Cadastrado com sucesso!");
 
     } else {
         echo "Error: " . $sql . "<br>" . mysqli_error($mysqli);
