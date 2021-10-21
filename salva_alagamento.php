@@ -9,7 +9,7 @@
     $xml = simplexml_load_file($link);
     logMsg("Dados CPTEC (Condições Atuais)...");
 
-    logMsg("Atualização: ".$xml -> atualizacao);
+    logMsg("Ultima Atualização Climatica: ".$xml -> atualizacao);
     logMsg("Pressão: ".$xml -> pressao);
     logMsg("Temperatura: ".$xml -> temperatura);
     logMsg("Tempo: ".$xml -> tempo);

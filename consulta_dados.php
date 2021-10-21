@@ -26,7 +26,7 @@ while($registro = mysqli_fetch_assoc($result))
     logMsg("Umidade: ".$registro['umidade']);
     logMsg("Visibilidade: ".$registro['visibilidade']);
 
-    $res = $registro;
+    $res[] = $registro;
 }
 logMsg("Finalizada consulta de dados...");
 echo json_encode($res);

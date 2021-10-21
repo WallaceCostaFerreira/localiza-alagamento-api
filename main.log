@@ -1,0 +1,1787 @@
+[2021-10-20 23:33:52] [INFO]: Iniciando Consulta de Dados...
+[2021-10-20 23:33:52] [WARNING]: Tentando Consultar Banco de Dados...
+[2021-10-20 23:33:52] [INFO]: Consulta realizada com sucesso...
+[2021-10-20 23:33:52] [INFO]: Título: teste
+[2021-10-20 23:33:52] [INFO]: Descrição: testelucas
+[2021-10-20 23:33:52] [INFO]: Nível: testenivel
+[2021-10-20 23:33:52] [INFO]: Longitude: testelongitude
+[2021-10-20 23:33:52] [INFO]: Latitude: testelatitude
+[2021-10-20 23:33:52] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-20 23:33:52] [INFO]: Pressão: 1021
+[2021-10-20 23:33:52] [INFO]: Temperatura: 13
+[2021-10-20 23:33:52] [INFO]: Tempo: ps
+[2021-10-20 23:33:52] [INFO]: Umidade: 86
+[2021-10-20 23:33:52] [INFO]: Visibilidade: 0
+[2021-10-20 23:33:52] [INFO]: Título: teste
+[2021-10-20 23:33:52] [INFO]: Descrição: testelucas
+[2021-10-20 23:33:52] [INFO]: Nível: testenivel
+[2021-10-20 23:33:52] [INFO]: Longitude: testelongitude
+[2021-10-20 23:33:52] [INFO]: Latitude: testelatitude
+[2021-10-20 23:33:52] [INFO]: Data Atualização: 19/10/2021 20:00:00
+[2021-10-20 23:33:52] [INFO]: Pressão: 1023
+[2021-10-20 23:33:52] [INFO]: Temperatura: 12
+[2021-10-20 23:33:52] [INFO]: Tempo: nd
+[2021-10-20 23:33:52] [INFO]: Umidade: 94
+[2021-10-20 23:33:52] [INFO]: Visibilidade: 5000
+[2021-10-20 23:33:52] [INFO]: Título: teste
+[2021-10-20 23:33:52] [INFO]: Descrição: testelucas
+[2021-10-20 23:33:52] [INFO]: Nível: testenivel
+[2021-10-20 23:33:52] [INFO]: Longitude: testelongitude
+[2021-10-20 23:33:52] [INFO]: Latitude: testelatitude
+[2021-10-20 23:33:52] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-20 23:33:52] [INFO]: Pressão: 1021
+[2021-10-20 23:33:52] [INFO]: Temperatura: 13
+[2021-10-20 23:33:52] [INFO]: Tempo: ps
+[2021-10-20 23:33:52] [INFO]: Umidade: 86
+[2021-10-20 23:33:52] [INFO]: Visibilidade: 0
+[2021-10-20 23:33:52] [INFO]: Título: teste
+[2021-10-20 23:33:52] [INFO]: Descrição: testelucas
+[2021-10-20 23:33:52] [INFO]: Nível: testenivel
+[2021-10-20 23:33:52] [INFO]: Longitude: testelongitude
+[2021-10-20 23:33:52] [INFO]: Latitude: testelatitude
+[2021-10-20 23:33:52] [INFO]: Data Atualização: 19/10/2021 21:00:00
+[2021-10-20 23:33:52] [INFO]: Pressão: 1023
+[2021-10-20 23:33:52] [INFO]: Temperatura: 12
+[2021-10-20 23:33:52] [INFO]: Tempo: c
+[2021-10-20 23:33:52] [INFO]: Umidade: 93
+[2021-10-20 23:33:52] [INFO]: Visibilidade: 6000
+[2021-10-20 23:33:52] [INFO]: Título: teste
+[2021-10-20 23:33:52] [INFO]: Descrição: testelucas
+[2021-10-20 23:33:52] [INFO]: Nível: testenivel
+[2021-10-20 23:33:52] [INFO]: Longitude: testelongitude
+[2021-10-20 23:33:52] [INFO]: Latitude: testelatitude
+[2021-10-20 23:33:52] [INFO]: Data Atualização: 19/10/2021 21:00:00
+[2021-10-20 23:33:52] [INFO]: Pressão: 1023
+[2021-10-20 23:33:52] [INFO]: Temperatura: 12
+[2021-10-20 23:33:52] [INFO]: Tempo: c
+[2021-10-20 23:33:52] [INFO]: Umidade: 93
+[2021-10-20 23:33:52] [INFO]: Visibilidade: 6000
+[2021-10-20 23:33:52] [INFO]: Título: Lucas lindo
+[2021-10-20 23:33:52] [INFO]: Descrição: lucas API
+[2021-10-20 23:33:52] [INFO]: Nível: alto
+[2021-10-20 23:33:52] [INFO]: Longitude: 15856676
+[2021-10-20 23:33:52] [INFO]: Latitude: 455465
+[2021-10-20 23:33:52] [INFO]: Data Atualização: 19/10/2021 21:00:00
+[2021-10-20 23:33:52] [INFO]: Pressão: 1023
+[2021-10-20 23:33:52] [INFO]: Temperatura: 12
+[2021-10-20 23:33:52] [INFO]: Tempo: c
+[2021-10-20 23:33:52] [INFO]: Umidade: 93
+[2021-10-20 23:33:52] [INFO]: Visibilidade: 6000
+[2021-10-20 23:33:52] [INFO]: Título: Lucas lindo
+[2021-10-20 23:33:52] [INFO]: Descrição: lucas API
+[2021-10-20 23:33:52] [INFO]: Nível: alto
+[2021-10-20 23:33:52] [INFO]: Longitude: 15856676
+[2021-10-20 23:33:52] [INFO]: Latitude: 455465
+[2021-10-20 23:33:52] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-20 23:33:52] [INFO]: Pressão: 1023
+[2021-10-20 23:33:52] [INFO]: Temperatura: 12
+[2021-10-20 23:33:52] [INFO]: Tempo: c
+[2021-10-20 23:33:52] [INFO]: Umidade: 93
+[2021-10-20 23:33:52] [INFO]: Visibilidade: 4000
+[2021-10-20 23:33:52] [INFO]: Título: Lucas lindo
+[2021-10-20 23:33:52] [INFO]: Descrição: lucas API
+[2021-10-20 23:33:52] [INFO]: Nível: alto
+[2021-10-20 23:33:52] [INFO]: Longitude: 15856676
+[2021-10-20 23:33:52] [INFO]: Latitude: 455465
+[2021-10-20 23:33:52] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-20 23:33:52] [INFO]: Pressão: 1023
+[2021-10-20 23:33:52] [INFO]: Temperatura: 12
+[2021-10-20 23:33:52] [INFO]: Tempo: c
+[2021-10-20 23:33:52] [INFO]: Umidade: 93
+[2021-10-20 23:33:52] [INFO]: Visibilidade: 4000
+[2021-10-20 23:33:52] [INFO]: Título: teste
+[2021-10-20 23:33:52] [INFO]: Descrição: testelucas
+[2021-10-20 23:33:52] [INFO]: Nível: testenivel
+[2021-10-20 23:33:52] [INFO]: Longitude: testelongitude
+[2021-10-20 23:33:52] [INFO]: Latitude: testelatitude
+[2021-10-20 23:33:52] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-20 23:33:52] [INFO]: Pressão: 1023
+[2021-10-20 23:33:52] [INFO]: Temperatura: 12
+[2021-10-20 23:33:52] [INFO]: Tempo: c
+[2021-10-20 23:33:52] [INFO]: Umidade: 93
+[2021-10-20 23:33:52] [INFO]: Visibilidade: 4000
+[2021-10-20 23:33:52] [INFO]: Título: teste
+[2021-10-20 23:33:52] [INFO]: Descrição: testelucas
+[2021-10-20 23:33:52] [INFO]: Nível: testenivel
+[2021-10-20 23:33:52] [INFO]: Longitude: testelongitude
+[2021-10-20 23:33:52] [INFO]: Latitude: testelatitude
+[2021-10-20 23:33:52] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-20 23:33:52] [INFO]: Pressão: 1023
+[2021-10-20 23:33:52] [INFO]: Temperatura: 12
+[2021-10-20 23:33:52] [INFO]: Tempo: c
+[2021-10-20 23:33:52] [INFO]: Umidade: 93
+[2021-10-20 23:33:52] [INFO]: Visibilidade: 4000
+[2021-10-20 23:33:52] [INFO]: Título: teste
+[2021-10-20 23:33:52] [INFO]: Descrição: testelucas
+[2021-10-20 23:33:52] [INFO]: Nível: testenivel
+[2021-10-20 23:33:52] [INFO]: Longitude: testelongitude
+[2021-10-20 23:33:52] [INFO]: Latitude: testelatitude
+[2021-10-20 23:33:52] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-20 23:33:52] [INFO]: Pressão: 1023
+[2021-10-20 23:33:52] [INFO]: Temperatura: 12
+[2021-10-20 23:33:52] [INFO]: Tempo: c
+[2021-10-20 23:33:52] [INFO]: Umidade: 93
+[2021-10-20 23:33:52] [INFO]: Visibilidade: 4000
+[2021-10-20 23:33:52] [INFO]: Título: teste
+[2021-10-20 23:33:52] [INFO]: Descrição: testelucas
+[2021-10-20 23:33:52] [INFO]: Nível: testenivel
+[2021-10-20 23:33:52] [INFO]: Longitude: testelongitude
+[2021-10-20 23:33:52] [INFO]: Latitude: testelatitude
+[2021-10-20 23:33:52] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-20 23:33:52] [INFO]: Pressão: 1023
+[2021-10-20 23:33:52] [INFO]: Temperatura: 12
+[2021-10-20 23:33:52] [INFO]: Tempo: c
+[2021-10-20 23:33:52] [INFO]: Umidade: 93
+[2021-10-20 23:33:52] [INFO]: Visibilidade: 4000
+[2021-10-20 23:33:52] [INFO]: Título: Lucas lindo
+[2021-10-20 23:33:52] [INFO]: Descrição: lucas API
+[2021-10-20 23:33:52] [INFO]: Nível: alto
+[2021-10-20 23:33:52] [INFO]: Longitude: 15856676
+[2021-10-20 23:33:52] [INFO]: Latitude: 455465
+[2021-10-20 23:33:52] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-20 23:33:52] [INFO]: Pressão: 1023
+[2021-10-20 23:33:52] [INFO]: Temperatura: 12
+[2021-10-20 23:33:52] [INFO]: Tempo: c
+[2021-10-20 23:33:52] [INFO]: Umidade: 93
+[2021-10-20 23:33:52] [INFO]: Visibilidade: 4000
+[2021-10-20 23:33:52] [INFO]: Título: Lucas lindo
+[2021-10-20 23:33:52] [INFO]: Descrição: lucas API
+[2021-10-20 23:33:52] [INFO]: Nível: alto
+[2021-10-20 23:33:52] [INFO]: Longitude: 15856676
+[2021-10-20 23:33:52] [INFO]: Latitude: 455465
+[2021-10-20 23:33:52] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-20 23:33:52] [INFO]: Pressão: 1023
+[2021-10-20 23:33:52] [INFO]: Temperatura: 12
+[2021-10-20 23:33:52] [INFO]: Tempo: c
+[2021-10-20 23:33:52] [INFO]: Umidade: 93
+[2021-10-20 23:33:52] [INFO]: Visibilidade: 4000
+[2021-10-20 23:33:52] [INFO]: Título: Lucas lindo
+[2021-10-20 23:33:52] [INFO]: Descrição: lucas API
+[2021-10-20 23:33:52] [INFO]: Nível: alto
+[2021-10-20 23:33:52] [INFO]: Longitude: 15856676
+[2021-10-20 23:33:52] [INFO]: Latitude: 455465
+[2021-10-20 23:33:52] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-20 23:33:52] [INFO]: Pressão: 1023
+[2021-10-20 23:33:52] [INFO]: Temperatura: 12
+[2021-10-20 23:33:52] [INFO]: Tempo: c
+[2021-10-20 23:33:52] [INFO]: Umidade: 93
+[2021-10-20 23:33:52] [INFO]: Visibilidade: 4000
+[2021-10-20 23:33:52] [INFO]: Título: Lucas lindo
+[2021-10-20 23:33:52] [INFO]: Descrição: lucas API
+[2021-10-20 23:33:52] [INFO]: Nível: alto
+[2021-10-20 23:33:52] [INFO]: Longitude: 15856676
+[2021-10-20 23:33:52] [INFO]: Latitude: 455465
+[2021-10-20 23:33:52] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-20 23:33:52] [INFO]: Pressão: 1021
+[2021-10-20 23:33:52] [INFO]: Temperatura: 13
+[2021-10-20 23:33:52] [INFO]: Tempo: ps
+[2021-10-20 23:33:52] [INFO]: Umidade: 86
+[2021-10-20 23:33:52] [INFO]: Visibilidade: 0
+[2021-10-20 23:33:52] [INFO]: Título: Lucas lindo
+[2021-10-20 23:33:52] [INFO]: Descrição: lucas API
+[2021-10-20 23:33:52] [INFO]: Nível: alto
+[2021-10-20 23:33:52] [INFO]: Longitude: 15856676
+[2021-10-20 23:33:52] [INFO]: Latitude: 455465
+[2021-10-20 23:33:52] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-20 23:33:52] [INFO]: Pressão: 1021
+[2021-10-20 23:33:52] [INFO]: Temperatura: 13
+[2021-10-20 23:33:52] [INFO]: Tempo: ps
+[2021-10-20 23:33:52] [INFO]: Umidade: 86
+[2021-10-20 23:33:52] [INFO]: Visibilidade: 0
+[2021-10-20 23:33:52] [INFO]: Título: Lucas lindo
+[2021-10-20 23:33:52] [INFO]: Descrição: lucas API
+[2021-10-20 23:33:52] [INFO]: Nível: alto
+[2021-10-20 23:33:52] [INFO]: Longitude: 15856676
+[2021-10-20 23:33:52] [INFO]: Latitude: 455465
+[2021-10-20 23:33:52] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-20 23:33:52] [INFO]: Pressão: 1021
+[2021-10-20 23:33:52] [INFO]: Temperatura: 13
+[2021-10-20 23:33:52] [INFO]: Tempo: ps
+[2021-10-20 23:33:52] [INFO]: Umidade: 86
+[2021-10-20 23:33:52] [INFO]: Visibilidade: 0
+[2021-10-20 23:33:52] [INFO]: Título: Lucas lindo
+[2021-10-20 23:33:52] [INFO]: Descrição: lucas API
+[2021-10-20 23:33:52] [INFO]: Nível: alto
+[2021-10-20 23:33:52] [INFO]: Longitude: 15856676
+[2021-10-20 23:33:52] [INFO]: Latitude: 455465
+[2021-10-20 23:33:52] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-20 23:33:52] [INFO]: Pressão: 1021
+[2021-10-20 23:33:52] [INFO]: Temperatura: 13
+[2021-10-20 23:33:52] [INFO]: Tempo: ps
+[2021-10-20 23:33:52] [INFO]: Umidade: 86
+[2021-10-20 23:33:52] [INFO]: Visibilidade: 0
+[2021-10-20 23:33:52] [INFO]: Título: Lucas lindo
+[2021-10-20 23:33:52] [INFO]: Descrição: lucas API
+[2021-10-20 23:33:52] [INFO]: Nível: alto
+[2021-10-20 23:33:52] [INFO]: Longitude: 15856676
+[2021-10-20 23:33:52] [INFO]: Latitude: 0000000000
+[2021-10-20 23:33:52] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-20 23:33:52] [INFO]: Pressão: 1021
+[2021-10-20 23:33:52] [INFO]: Temperatura: 13
+[2021-10-20 23:33:52] [INFO]: Tempo: ps
+[2021-10-20 23:33:52] [INFO]: Umidade: 86
+[2021-10-20 23:33:52] [INFO]: Visibilidade: 0
+[2021-10-20 23:33:52] [INFO]: Título: teste
+[2021-10-20 23:33:52] [INFO]: Descrição: testelucas
+[2021-10-20 23:33:52] [INFO]: Nível: testenivel
+[2021-10-20 23:33:52] [INFO]: Longitude: testelongitude
+[2021-10-20 23:33:52] [INFO]: Latitude: testelatitude
+[2021-10-20 23:33:52] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-20 23:33:52] [INFO]: Pressão: 1021
+[2021-10-20 23:33:52] [INFO]: Temperatura: 13
+[2021-10-20 23:33:52] [INFO]: Tempo: ps
+[2021-10-20 23:33:52] [INFO]: Umidade: 86
+[2021-10-20 23:33:52] [INFO]: Visibilidade: 0
+[2021-10-20 23:33:52] [INFO]: Finalizada consulta de dados...
+[2021-10-20 23:41:12] [INFO]: Iniciando amarzenamento de reporte...
+[2021-10-20 23:41:12] [WARNING]: Tentando consultar WerbService...
+[2021-10-20 23:41:13] [INFO]: Dados CPTEC (Condições Atuais)...
+[2021-10-20 23:41:13] [INFO]: Atualização: 20/10/2021 19:00:00
+[2021-10-20 23:41:13] [INFO]: Pressão: 1021
+[2021-10-20 23:41:13] [INFO]: Temperatura: 13
+[2021-10-20 23:41:13] [INFO]: Tempo: ps
+[2021-10-20 23:41:13] [INFO]: Umidade: 86
+[2021-10-20 23:41:13] [INFO]: Visibilidade: >10000
+[2021-10-20 23:41:13] [INFO]: --------------------------------------------
+[2021-10-20 23:41:13] [INFO]: Dados vindo do aplicativo...
+[2021-10-20 23:41:13] [INFO]: Título: 
+[2021-10-20 23:41:13] [INFO]: Descrição: 
+[2021-10-20 23:41:13] [INFO]: Nível: 
+[2021-10-20 23:41:13] [INFO]: Longitude: 
+[2021-10-20 23:41:13] [INFO]: Latitude: 
+[2021-10-20 23:41:13] [INFO]: Dados Cadastrado com sucesso...
+[2021-10-20 23:43:26] [INFO]: Iniciando amarzenamento de reporte...
+[2021-10-20 23:43:26] [WARNING]: Tentando consultar WerbService...
+[2021-10-20 23:43:29] [INFO]: Dados CPTEC (Condições Atuais)...
+[2021-10-20 23:43:29] [INFO]: Atualização: 20/10/2021 19:00:00
+[2021-10-20 23:43:29] [INFO]: Pressão: 1021
+[2021-10-20 23:43:29] [INFO]: Temperatura: 13
+[2021-10-20 23:43:29] [INFO]: Tempo: ps
+[2021-10-20 23:43:29] [INFO]: Umidade: 86
+[2021-10-20 23:43:29] [INFO]: Visibilidade: >10000
+[2021-10-20 23:43:29] [INFO]: --------------------------------------------
+[2021-10-20 23:43:29] [INFO]: Dados vindo do aplicativo...
+[2021-10-20 23:43:29] [INFO]: Título: Hoje
+[2021-10-20 23:43:29] [INFO]: Descrição: 
+[2021-10-20 23:43:29] [INFO]: Nível: Alto
+[2021-10-20 23:43:29] [INFO]: Longitude: 123
+[2021-10-20 23:43:29] [INFO]: Latitude: 456
+[2021-10-20 23:43:29] [INFO]: Dados Cadastrado com sucesso...
+[2021-10-20 23:44:30] [INFO]: Iniciando amarzenamento de reporte...
+[2021-10-20 23:44:30] [WARNING]: Tentando consultar WerbService...
+[2021-10-20 23:44:30] [INFO]: Dados CPTEC (Condições Atuais)...
+[2021-10-20 23:44:30] [INFO]: Atualização: 20/10/2021 19:00:00
+[2021-10-20 23:44:30] [INFO]: Pressão: 1021
+[2021-10-20 23:44:30] [INFO]: Temperatura: 13
+[2021-10-20 23:44:30] [INFO]: Tempo: ps
+[2021-10-20 23:44:30] [INFO]: Umidade: 86
+[2021-10-20 23:44:30] [INFO]: Visibilidade: >10000
+[2021-10-20 23:44:30] [INFO]: --------------------------------------------
+[2021-10-20 23:44:30] [INFO]: Dados vindo do aplicativo...
+[2021-10-20 23:44:30] [INFO]: Título: Hoje
+[2021-10-20 23:44:30] [INFO]: Descrição: 
+[2021-10-20 23:44:30] [INFO]: Nível: Alto
+[2021-10-20 23:44:30] [INFO]: Longitude: 123
+[2021-10-20 23:44:30] [INFO]: Latitude: 456
+[2021-10-20 23:44:30] [INFO]: Dados Cadastrado com sucesso...
+[2021-10-20 23:44:47] [INFO]: Iniciando amarzenamento de reporte...
+[2021-10-20 23:44:47] [WARNING]: Tentando consultar WerbService...
+[2021-10-20 23:44:47] [INFO]: Dados CPTEC (Condições Atuais)...
+[2021-10-20 23:44:47] [INFO]: Atualização: 20/10/2021 19:00:00
+[2021-10-20 23:44:47] [INFO]: Pressão: 1021
+[2021-10-20 23:44:47] [INFO]: Temperatura: 13
+[2021-10-20 23:44:47] [INFO]: Tempo: ps
+[2021-10-20 23:44:47] [INFO]: Umidade: 86
+[2021-10-20 23:44:47] [INFO]: Visibilidade: >10000
+[2021-10-20 23:44:47] [INFO]: --------------------------------------------
+[2021-10-20 23:44:47] [INFO]: Dados vindo do aplicativo...
+[2021-10-20 23:44:47] [INFO]: Título: Hoje
+[2021-10-20 23:44:47] [INFO]: Descrição: 
+[2021-10-20 23:44:47] [INFO]: Nível: Alto
+[2021-10-20 23:44:47] [INFO]: Longitude: 123
+[2021-10-20 23:44:47] [INFO]: Latitude: 456
+[2021-10-20 23:44:47] [INFO]: Dados Cadastrado com sucesso...
+[2021-10-20 23:44:59] [INFO]: Iniciando amarzenamento de reporte...
+[2021-10-20 23:44:59] [WARNING]: Tentando consultar WerbService...
+[2021-10-20 23:44:59] [INFO]: Dados CPTEC (Condições Atuais)...
+[2021-10-20 23:44:59] [INFO]: Atualização: 20/10/2021 19:00:00
+[2021-10-20 23:44:59] [INFO]: Pressão: 1021
+[2021-10-20 23:44:59] [INFO]: Temperatura: 13
+[2021-10-20 23:44:59] [INFO]: Tempo: ps
+[2021-10-20 23:44:59] [INFO]: Umidade: 86
+[2021-10-20 23:44:59] [INFO]: Visibilidade: >10000
+[2021-10-20 23:44:59] [INFO]: --------------------------------------------
+[2021-10-20 23:44:59] [INFO]: Dados vindo do aplicativo...
+[2021-10-20 23:44:59] [INFO]: Título: Hoje
+[2021-10-20 23:44:59] [INFO]: Descrição: Testehoje
+[2021-10-20 23:44:59] [INFO]: Nível: Alto
+[2021-10-20 23:44:59] [INFO]: Longitude: 123
+[2021-10-20 23:44:59] [INFO]: Latitude: 456
+[2021-10-20 23:44:59] [INFO]: Dados Cadastrado com sucesso...
+[2021-10-20 23:46:55] [INFO]: Iniciando amarzenamento de reporte...
+[2021-10-20 23:46:55] [WARNING]: Tentando consultar WerbService...
+[2021-10-20 23:46:55] [INFO]: Dados CPTEC (Condições Atuais)...
+[2021-10-20 23:46:55] [INFO]: Ultima Atualização Climatica: 20/10/2021 19:00:00
+[2021-10-20 23:46:55] [INFO]: Pressão: 1021
+[2021-10-20 23:46:55] [INFO]: Temperatura: 13
+[2021-10-20 23:46:55] [INFO]: Tempo: ps
+[2021-10-20 23:46:55] [INFO]: Umidade: 86
+[2021-10-20 23:46:55] [INFO]: Visibilidade: >10000
+[2021-10-20 23:46:55] [INFO]: --------------------------------------------
+[2021-10-20 23:46:55] [INFO]: Dados vindo do aplicativo...
+[2021-10-20 23:46:55] [INFO]: Título: Hoje
+[2021-10-20 23:46:55] [INFO]: Descrição: Testehoje
+[2021-10-20 23:46:55] [INFO]: Nível: Alto
+[2021-10-20 23:46:55] [INFO]: Longitude: 123
+[2021-10-20 23:46:55] [INFO]: Latitude: 456
+[2021-10-20 23:46:55] [INFO]: Dados Cadastrado com sucesso...
+[2021-10-21 00:19:29] [INFO]: Iniciando Consulta de Dados...
+[2021-10-21 00:19:29] [WARNING]: Tentando Consultar Banco de Dados...
+[2021-10-21 00:19:30] [INFO]: Consulta realizada com sucesso...
+[2021-10-21 00:19:30] [INFO]: Título: teste
+[2021-10-21 00:19:30] [INFO]: Descrição: testelucas
+[2021-10-21 00:19:30] [INFO]: Nível: testenivel
+[2021-10-21 00:19:30] [INFO]: Longitude: testelongitude
+[2021-10-21 00:19:30] [INFO]: Latitude: testelatitude
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1021
+[2021-10-21 00:19:30] [INFO]: Temperatura: 13
+[2021-10-21 00:19:30] [INFO]: Tempo: ps
+[2021-10-21 00:19:30] [INFO]: Umidade: 86
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 0
+[2021-10-21 00:19:30] [INFO]: Título: teste
+[2021-10-21 00:19:30] [INFO]: Descrição: testelucas
+[2021-10-21 00:19:30] [INFO]: Nível: testenivel
+[2021-10-21 00:19:30] [INFO]: Longitude: testelongitude
+[2021-10-21 00:19:30] [INFO]: Latitude: testelatitude
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 19/10/2021 20:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1023
+[2021-10-21 00:19:30] [INFO]: Temperatura: 12
+[2021-10-21 00:19:30] [INFO]: Tempo: nd
+[2021-10-21 00:19:30] [INFO]: Umidade: 94
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 5000
+[2021-10-21 00:19:30] [INFO]: Título: teste
+[2021-10-21 00:19:30] [INFO]: Descrição: testelucas
+[2021-10-21 00:19:30] [INFO]: Nível: testenivel
+[2021-10-21 00:19:30] [INFO]: Longitude: testelongitude
+[2021-10-21 00:19:30] [INFO]: Latitude: testelatitude
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1021
+[2021-10-21 00:19:30] [INFO]: Temperatura: 13
+[2021-10-21 00:19:30] [INFO]: Tempo: ps
+[2021-10-21 00:19:30] [INFO]: Umidade: 86
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 0
+[2021-10-21 00:19:30] [INFO]: Título: teste
+[2021-10-21 00:19:30] [INFO]: Descrição: testelucas
+[2021-10-21 00:19:30] [INFO]: Nível: testenivel
+[2021-10-21 00:19:30] [INFO]: Longitude: testelongitude
+[2021-10-21 00:19:30] [INFO]: Latitude: testelatitude
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 19/10/2021 21:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1023
+[2021-10-21 00:19:30] [INFO]: Temperatura: 12
+[2021-10-21 00:19:30] [INFO]: Tempo: c
+[2021-10-21 00:19:30] [INFO]: Umidade: 93
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 6000
+[2021-10-21 00:19:30] [INFO]: Título: teste
+[2021-10-21 00:19:30] [INFO]: Descrição: testelucas
+[2021-10-21 00:19:30] [INFO]: Nível: testenivel
+[2021-10-21 00:19:30] [INFO]: Longitude: testelongitude
+[2021-10-21 00:19:30] [INFO]: Latitude: testelatitude
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 19/10/2021 21:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1023
+[2021-10-21 00:19:30] [INFO]: Temperatura: 12
+[2021-10-21 00:19:30] [INFO]: Tempo: c
+[2021-10-21 00:19:30] [INFO]: Umidade: 93
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 6000
+[2021-10-21 00:19:30] [INFO]: Título: Lucas lindo
+[2021-10-21 00:19:30] [INFO]: Descrição: lucas API
+[2021-10-21 00:19:30] [INFO]: Nível: alto
+[2021-10-21 00:19:30] [INFO]: Longitude: 15856676
+[2021-10-21 00:19:30] [INFO]: Latitude: 455465
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 19/10/2021 21:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1023
+[2021-10-21 00:19:30] [INFO]: Temperatura: 12
+[2021-10-21 00:19:30] [INFO]: Tempo: c
+[2021-10-21 00:19:30] [INFO]: Umidade: 93
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 6000
+[2021-10-21 00:19:30] [INFO]: Título: Lucas lindo
+[2021-10-21 00:19:30] [INFO]: Descrição: lucas API
+[2021-10-21 00:19:30] [INFO]: Nível: alto
+[2021-10-21 00:19:30] [INFO]: Longitude: 15856676
+[2021-10-21 00:19:30] [INFO]: Latitude: 455465
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1023
+[2021-10-21 00:19:30] [INFO]: Temperatura: 12
+[2021-10-21 00:19:30] [INFO]: Tempo: c
+[2021-10-21 00:19:30] [INFO]: Umidade: 93
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 4000
+[2021-10-21 00:19:30] [INFO]: Título: Lucas lindo
+[2021-10-21 00:19:30] [INFO]: Descrição: lucas API
+[2021-10-21 00:19:30] [INFO]: Nível: alto
+[2021-10-21 00:19:30] [INFO]: Longitude: 15856676
+[2021-10-21 00:19:30] [INFO]: Latitude: 455465
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1023
+[2021-10-21 00:19:30] [INFO]: Temperatura: 12
+[2021-10-21 00:19:30] [INFO]: Tempo: c
+[2021-10-21 00:19:30] [INFO]: Umidade: 93
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 4000
+[2021-10-21 00:19:30] [INFO]: Título: teste
+[2021-10-21 00:19:30] [INFO]: Descrição: testelucas
+[2021-10-21 00:19:30] [INFO]: Nível: testenivel
+[2021-10-21 00:19:30] [INFO]: Longitude: testelongitude
+[2021-10-21 00:19:30] [INFO]: Latitude: testelatitude
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1023
+[2021-10-21 00:19:30] [INFO]: Temperatura: 12
+[2021-10-21 00:19:30] [INFO]: Tempo: c
+[2021-10-21 00:19:30] [INFO]: Umidade: 93
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 4000
+[2021-10-21 00:19:30] [INFO]: Título: teste
+[2021-10-21 00:19:30] [INFO]: Descrição: testelucas
+[2021-10-21 00:19:30] [INFO]: Nível: testenivel
+[2021-10-21 00:19:30] [INFO]: Longitude: testelongitude
+[2021-10-21 00:19:30] [INFO]: Latitude: testelatitude
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1023
+[2021-10-21 00:19:30] [INFO]: Temperatura: 12
+[2021-10-21 00:19:30] [INFO]: Tempo: c
+[2021-10-21 00:19:30] [INFO]: Umidade: 93
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 4000
+[2021-10-21 00:19:30] [INFO]: Título: teste
+[2021-10-21 00:19:30] [INFO]: Descrição: testelucas
+[2021-10-21 00:19:30] [INFO]: Nível: testenivel
+[2021-10-21 00:19:30] [INFO]: Longitude: testelongitude
+[2021-10-21 00:19:30] [INFO]: Latitude: testelatitude
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1023
+[2021-10-21 00:19:30] [INFO]: Temperatura: 12
+[2021-10-21 00:19:30] [INFO]: Tempo: c
+[2021-10-21 00:19:30] [INFO]: Umidade: 93
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 4000
+[2021-10-21 00:19:30] [INFO]: Título: teste
+[2021-10-21 00:19:30] [INFO]: Descrição: testelucas
+[2021-10-21 00:19:30] [INFO]: Nível: testenivel
+[2021-10-21 00:19:30] [INFO]: Longitude: testelongitude
+[2021-10-21 00:19:30] [INFO]: Latitude: testelatitude
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1023
+[2021-10-21 00:19:30] [INFO]: Temperatura: 12
+[2021-10-21 00:19:30] [INFO]: Tempo: c
+[2021-10-21 00:19:30] [INFO]: Umidade: 93
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 4000
+[2021-10-21 00:19:30] [INFO]: Título: Lucas lindo
+[2021-10-21 00:19:30] [INFO]: Descrição: lucas API
+[2021-10-21 00:19:30] [INFO]: Nível: alto
+[2021-10-21 00:19:30] [INFO]: Longitude: 15856676
+[2021-10-21 00:19:30] [INFO]: Latitude: 455465
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1023
+[2021-10-21 00:19:30] [INFO]: Temperatura: 12
+[2021-10-21 00:19:30] [INFO]: Tempo: c
+[2021-10-21 00:19:30] [INFO]: Umidade: 93
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 4000
+[2021-10-21 00:19:30] [INFO]: Título: Lucas lindo
+[2021-10-21 00:19:30] [INFO]: Descrição: lucas API
+[2021-10-21 00:19:30] [INFO]: Nível: alto
+[2021-10-21 00:19:30] [INFO]: Longitude: 15856676
+[2021-10-21 00:19:30] [INFO]: Latitude: 455465
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1023
+[2021-10-21 00:19:30] [INFO]: Temperatura: 12
+[2021-10-21 00:19:30] [INFO]: Tempo: c
+[2021-10-21 00:19:30] [INFO]: Umidade: 93
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 4000
+[2021-10-21 00:19:30] [INFO]: Título: Lucas lindo
+[2021-10-21 00:19:30] [INFO]: Descrição: lucas API
+[2021-10-21 00:19:30] [INFO]: Nível: alto
+[2021-10-21 00:19:30] [INFO]: Longitude: 15856676
+[2021-10-21 00:19:30] [INFO]: Latitude: 455465
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1023
+[2021-10-21 00:19:30] [INFO]: Temperatura: 12
+[2021-10-21 00:19:30] [INFO]: Tempo: c
+[2021-10-21 00:19:30] [INFO]: Umidade: 93
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 4000
+[2021-10-21 00:19:30] [INFO]: Título: Lucas lindo
+[2021-10-21 00:19:30] [INFO]: Descrição: lucas API
+[2021-10-21 00:19:30] [INFO]: Nível: alto
+[2021-10-21 00:19:30] [INFO]: Longitude: 15856676
+[2021-10-21 00:19:30] [INFO]: Latitude: 455465
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1021
+[2021-10-21 00:19:30] [INFO]: Temperatura: 13
+[2021-10-21 00:19:30] [INFO]: Tempo: ps
+[2021-10-21 00:19:30] [INFO]: Umidade: 86
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 0
+[2021-10-21 00:19:30] [INFO]: Título: Lucas lindo
+[2021-10-21 00:19:30] [INFO]: Descrição: lucas API
+[2021-10-21 00:19:30] [INFO]: Nível: alto
+[2021-10-21 00:19:30] [INFO]: Longitude: 15856676
+[2021-10-21 00:19:30] [INFO]: Latitude: 455465
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1021
+[2021-10-21 00:19:30] [INFO]: Temperatura: 13
+[2021-10-21 00:19:30] [INFO]: Tempo: ps
+[2021-10-21 00:19:30] [INFO]: Umidade: 86
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 0
+[2021-10-21 00:19:30] [INFO]: Título: Lucas lindo
+[2021-10-21 00:19:30] [INFO]: Descrição: lucas API
+[2021-10-21 00:19:30] [INFO]: Nível: alto
+[2021-10-21 00:19:30] [INFO]: Longitude: 15856676
+[2021-10-21 00:19:30] [INFO]: Latitude: 455465
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1021
+[2021-10-21 00:19:30] [INFO]: Temperatura: 13
+[2021-10-21 00:19:30] [INFO]: Tempo: ps
+[2021-10-21 00:19:30] [INFO]: Umidade: 86
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 0
+[2021-10-21 00:19:30] [INFO]: Título: Lucas lindo
+[2021-10-21 00:19:30] [INFO]: Descrição: lucas API
+[2021-10-21 00:19:30] [INFO]: Nível: alto
+[2021-10-21 00:19:30] [INFO]: Longitude: 15856676
+[2021-10-21 00:19:30] [INFO]: Latitude: 455465
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1021
+[2021-10-21 00:19:30] [INFO]: Temperatura: 13
+[2021-10-21 00:19:30] [INFO]: Tempo: ps
+[2021-10-21 00:19:30] [INFO]: Umidade: 86
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 0
+[2021-10-21 00:19:30] [INFO]: Título: Lucas lindo
+[2021-10-21 00:19:30] [INFO]: Descrição: lucas API
+[2021-10-21 00:19:30] [INFO]: Nível: alto
+[2021-10-21 00:19:30] [INFO]: Longitude: 15856676
+[2021-10-21 00:19:30] [INFO]: Latitude: 0000000000
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1021
+[2021-10-21 00:19:30] [INFO]: Temperatura: 13
+[2021-10-21 00:19:30] [INFO]: Tempo: ps
+[2021-10-21 00:19:30] [INFO]: Umidade: 86
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 0
+[2021-10-21 00:19:30] [INFO]: Título: teste
+[2021-10-21 00:19:30] [INFO]: Descrição: testelucas
+[2021-10-21 00:19:30] [INFO]: Nível: testenivel
+[2021-10-21 00:19:30] [INFO]: Longitude: testelongitude
+[2021-10-21 00:19:30] [INFO]: Latitude: testelatitude
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1021
+[2021-10-21 00:19:30] [INFO]: Temperatura: 13
+[2021-10-21 00:19:30] [INFO]: Tempo: ps
+[2021-10-21 00:19:30] [INFO]: Umidade: 86
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 0
+[2021-10-21 00:19:30] [INFO]: Título: Hoje
+[2021-10-21 00:19:30] [INFO]: Descrição: Testehoje
+[2021-10-21 00:19:30] [INFO]: Nível: Alto
+[2021-10-21 00:19:30] [INFO]: Longitude: 123
+[2021-10-21 00:19:30] [INFO]: Latitude: 456
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1021
+[2021-10-21 00:19:30] [INFO]: Temperatura: 13
+[2021-10-21 00:19:30] [INFO]: Tempo: ps
+[2021-10-21 00:19:30] [INFO]: Umidade: 86
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 0
+[2021-10-21 00:19:30] [INFO]: Título: Hoje
+[2021-10-21 00:19:30] [INFO]: Descrição: 
+[2021-10-21 00:19:30] [INFO]: Nível: Alto
+[2021-10-21 00:19:30] [INFO]: Longitude: 123
+[2021-10-21 00:19:30] [INFO]: Latitude: 456
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1021
+[2021-10-21 00:19:30] [INFO]: Temperatura: 13
+[2021-10-21 00:19:30] [INFO]: Tempo: ps
+[2021-10-21 00:19:30] [INFO]: Umidade: 86
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 0
+[2021-10-21 00:19:30] [INFO]: Título: Hoje
+[2021-10-21 00:19:30] [INFO]: Descrição: 
+[2021-10-21 00:19:30] [INFO]: Nível: Alto
+[2021-10-21 00:19:30] [INFO]: Longitude: 123
+[2021-10-21 00:19:30] [INFO]: Latitude: 456
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1021
+[2021-10-21 00:19:30] [INFO]: Temperatura: 13
+[2021-10-21 00:19:30] [INFO]: Tempo: ps
+[2021-10-21 00:19:30] [INFO]: Umidade: 86
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 0
+[2021-10-21 00:19:30] [INFO]: Título: Hoje
+[2021-10-21 00:19:30] [INFO]: Descrição: 
+[2021-10-21 00:19:30] [INFO]: Nível: Alto
+[2021-10-21 00:19:30] [INFO]: Longitude: 123
+[2021-10-21 00:19:30] [INFO]: Latitude: 456
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1021
+[2021-10-21 00:19:30] [INFO]: Temperatura: 13
+[2021-10-21 00:19:30] [INFO]: Tempo: ps
+[2021-10-21 00:19:30] [INFO]: Umidade: 86
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 0
+[2021-10-21 00:19:30] [INFO]: Título: Hoje
+[2021-10-21 00:19:30] [INFO]: Descrição: Testehoje
+[2021-10-21 00:19:30] [INFO]: Nível: Alto
+[2021-10-21 00:19:30] [INFO]: Longitude: 123
+[2021-10-21 00:19:30] [INFO]: Latitude: 456
+[2021-10-21 00:19:30] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:19:30] [INFO]: Pressão: 1021
+[2021-10-21 00:19:30] [INFO]: Temperatura: 13
+[2021-10-21 00:19:30] [INFO]: Tempo: ps
+[2021-10-21 00:19:30] [INFO]: Umidade: 86
+[2021-10-21 00:19:30] [INFO]: Visibilidade: 0
+[2021-10-21 00:19:30] [INFO]: Finalizada consulta de dados...
+[2021-10-21 00:20:41] [INFO]: Iniciando Consulta de Dados...
+[2021-10-21 00:20:41] [WARNING]: Tentando Consultar Banco de Dados...
+[2021-10-21 00:20:41] [INFO]: Consulta realizada com sucesso...
+[2021-10-21 00:20:41] [INFO]: Título: teste
+[2021-10-21 00:20:41] [INFO]: Descrição: testelucas
+[2021-10-21 00:20:41] [INFO]: Nível: testenivel
+[2021-10-21 00:20:41] [INFO]: Longitude: testelongitude
+[2021-10-21 00:20:41] [INFO]: Latitude: testelatitude
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1021
+[2021-10-21 00:20:41] [INFO]: Temperatura: 13
+[2021-10-21 00:20:41] [INFO]: Tempo: ps
+[2021-10-21 00:20:41] [INFO]: Umidade: 86
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:41] [INFO]: Título: teste
+[2021-10-21 00:20:41] [INFO]: Descrição: testelucas
+[2021-10-21 00:20:41] [INFO]: Nível: testenivel
+[2021-10-21 00:20:41] [INFO]: Longitude: testelongitude
+[2021-10-21 00:20:41] [INFO]: Latitude: testelatitude
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 19/10/2021 20:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1023
+[2021-10-21 00:20:41] [INFO]: Temperatura: 12
+[2021-10-21 00:20:41] [INFO]: Tempo: nd
+[2021-10-21 00:20:41] [INFO]: Umidade: 94
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 5000
+[2021-10-21 00:20:41] [INFO]: Título: teste
+[2021-10-21 00:20:41] [INFO]: Descrição: testelucas
+[2021-10-21 00:20:41] [INFO]: Nível: testenivel
+[2021-10-21 00:20:41] [INFO]: Longitude: testelongitude
+[2021-10-21 00:20:41] [INFO]: Latitude: testelatitude
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1021
+[2021-10-21 00:20:41] [INFO]: Temperatura: 13
+[2021-10-21 00:20:41] [INFO]: Tempo: ps
+[2021-10-21 00:20:41] [INFO]: Umidade: 86
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:41] [INFO]: Título: teste
+[2021-10-21 00:20:41] [INFO]: Descrição: testelucas
+[2021-10-21 00:20:41] [INFO]: Nível: testenivel
+[2021-10-21 00:20:41] [INFO]: Longitude: testelongitude
+[2021-10-21 00:20:41] [INFO]: Latitude: testelatitude
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 19/10/2021 21:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1023
+[2021-10-21 00:20:41] [INFO]: Temperatura: 12
+[2021-10-21 00:20:41] [INFO]: Tempo: c
+[2021-10-21 00:20:41] [INFO]: Umidade: 93
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 6000
+[2021-10-21 00:20:41] [INFO]: Título: teste
+[2021-10-21 00:20:41] [INFO]: Descrição: testelucas
+[2021-10-21 00:20:41] [INFO]: Nível: testenivel
+[2021-10-21 00:20:41] [INFO]: Longitude: testelongitude
+[2021-10-21 00:20:41] [INFO]: Latitude: testelatitude
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 19/10/2021 21:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1023
+[2021-10-21 00:20:41] [INFO]: Temperatura: 12
+[2021-10-21 00:20:41] [INFO]: Tempo: c
+[2021-10-21 00:20:41] [INFO]: Umidade: 93
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 6000
+[2021-10-21 00:20:41] [INFO]: Título: Lucas lindo
+[2021-10-21 00:20:41] [INFO]: Descrição: lucas API
+[2021-10-21 00:20:41] [INFO]: Nível: alto
+[2021-10-21 00:20:41] [INFO]: Longitude: 15856676
+[2021-10-21 00:20:41] [INFO]: Latitude: 455465
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 19/10/2021 21:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1023
+[2021-10-21 00:20:41] [INFO]: Temperatura: 12
+[2021-10-21 00:20:41] [INFO]: Tempo: c
+[2021-10-21 00:20:41] [INFO]: Umidade: 93
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 6000
+[2021-10-21 00:20:41] [INFO]: Título: Lucas lindo
+[2021-10-21 00:20:41] [INFO]: Descrição: lucas API
+[2021-10-21 00:20:41] [INFO]: Nível: alto
+[2021-10-21 00:20:41] [INFO]: Longitude: 15856676
+[2021-10-21 00:20:41] [INFO]: Latitude: 455465
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1023
+[2021-10-21 00:20:41] [INFO]: Temperatura: 12
+[2021-10-21 00:20:41] [INFO]: Tempo: c
+[2021-10-21 00:20:41] [INFO]: Umidade: 93
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 4000
+[2021-10-21 00:20:41] [INFO]: Título: Lucas lindo
+[2021-10-21 00:20:41] [INFO]: Descrição: lucas API
+[2021-10-21 00:20:41] [INFO]: Nível: alto
+[2021-10-21 00:20:41] [INFO]: Longitude: 15856676
+[2021-10-21 00:20:41] [INFO]: Latitude: 455465
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1023
+[2021-10-21 00:20:41] [INFO]: Temperatura: 12
+[2021-10-21 00:20:41] [INFO]: Tempo: c
+[2021-10-21 00:20:41] [INFO]: Umidade: 93
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 4000
+[2021-10-21 00:20:41] [INFO]: Título: teste
+[2021-10-21 00:20:41] [INFO]: Descrição: testelucas
+[2021-10-21 00:20:41] [INFO]: Nível: testenivel
+[2021-10-21 00:20:41] [INFO]: Longitude: testelongitude
+[2021-10-21 00:20:41] [INFO]: Latitude: testelatitude
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1023
+[2021-10-21 00:20:41] [INFO]: Temperatura: 12
+[2021-10-21 00:20:41] [INFO]: Tempo: c
+[2021-10-21 00:20:41] [INFO]: Umidade: 93
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 4000
+[2021-10-21 00:20:41] [INFO]: Título: teste
+[2021-10-21 00:20:41] [INFO]: Descrição: testelucas
+[2021-10-21 00:20:41] [INFO]: Nível: testenivel
+[2021-10-21 00:20:41] [INFO]: Longitude: testelongitude
+[2021-10-21 00:20:41] [INFO]: Latitude: testelatitude
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1023
+[2021-10-21 00:20:41] [INFO]: Temperatura: 12
+[2021-10-21 00:20:41] [INFO]: Tempo: c
+[2021-10-21 00:20:41] [INFO]: Umidade: 93
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 4000
+[2021-10-21 00:20:41] [INFO]: Título: teste
+[2021-10-21 00:20:41] [INFO]: Descrição: testelucas
+[2021-10-21 00:20:41] [INFO]: Nível: testenivel
+[2021-10-21 00:20:41] [INFO]: Longitude: testelongitude
+[2021-10-21 00:20:41] [INFO]: Latitude: testelatitude
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1023
+[2021-10-21 00:20:41] [INFO]: Temperatura: 12
+[2021-10-21 00:20:41] [INFO]: Tempo: c
+[2021-10-21 00:20:41] [INFO]: Umidade: 93
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 4000
+[2021-10-21 00:20:41] [INFO]: Título: teste
+[2021-10-21 00:20:41] [INFO]: Descrição: testelucas
+[2021-10-21 00:20:41] [INFO]: Nível: testenivel
+[2021-10-21 00:20:41] [INFO]: Longitude: testelongitude
+[2021-10-21 00:20:41] [INFO]: Latitude: testelatitude
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1023
+[2021-10-21 00:20:41] [INFO]: Temperatura: 12
+[2021-10-21 00:20:41] [INFO]: Tempo: c
+[2021-10-21 00:20:41] [INFO]: Umidade: 93
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 4000
+[2021-10-21 00:20:41] [INFO]: Título: Lucas lindo
+[2021-10-21 00:20:41] [INFO]: Descrição: lucas API
+[2021-10-21 00:20:41] [INFO]: Nível: alto
+[2021-10-21 00:20:41] [INFO]: Longitude: 15856676
+[2021-10-21 00:20:41] [INFO]: Latitude: 455465
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1023
+[2021-10-21 00:20:41] [INFO]: Temperatura: 12
+[2021-10-21 00:20:41] [INFO]: Tempo: c
+[2021-10-21 00:20:41] [INFO]: Umidade: 93
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 4000
+[2021-10-21 00:20:41] [INFO]: Título: Lucas lindo
+[2021-10-21 00:20:41] [INFO]: Descrição: lucas API
+[2021-10-21 00:20:41] [INFO]: Nível: alto
+[2021-10-21 00:20:41] [INFO]: Longitude: 15856676
+[2021-10-21 00:20:41] [INFO]: Latitude: 455465
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1023
+[2021-10-21 00:20:41] [INFO]: Temperatura: 12
+[2021-10-21 00:20:41] [INFO]: Tempo: c
+[2021-10-21 00:20:41] [INFO]: Umidade: 93
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 4000
+[2021-10-21 00:20:41] [INFO]: Título: Lucas lindo
+[2021-10-21 00:20:41] [INFO]: Descrição: lucas API
+[2021-10-21 00:20:41] [INFO]: Nível: alto
+[2021-10-21 00:20:41] [INFO]: Longitude: 15856676
+[2021-10-21 00:20:41] [INFO]: Latitude: 455465
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1023
+[2021-10-21 00:20:41] [INFO]: Temperatura: 12
+[2021-10-21 00:20:41] [INFO]: Tempo: c
+[2021-10-21 00:20:41] [INFO]: Umidade: 93
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 4000
+[2021-10-21 00:20:41] [INFO]: Título: Lucas lindo
+[2021-10-21 00:20:41] [INFO]: Descrição: lucas API
+[2021-10-21 00:20:41] [INFO]: Nível: alto
+[2021-10-21 00:20:41] [INFO]: Longitude: 15856676
+[2021-10-21 00:20:41] [INFO]: Latitude: 455465
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1021
+[2021-10-21 00:20:41] [INFO]: Temperatura: 13
+[2021-10-21 00:20:41] [INFO]: Tempo: ps
+[2021-10-21 00:20:41] [INFO]: Umidade: 86
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:41] [INFO]: Título: Lucas lindo
+[2021-10-21 00:20:41] [INFO]: Descrição: lucas API
+[2021-10-21 00:20:41] [INFO]: Nível: alto
+[2021-10-21 00:20:41] [INFO]: Longitude: 15856676
+[2021-10-21 00:20:41] [INFO]: Latitude: 455465
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1021
+[2021-10-21 00:20:41] [INFO]: Temperatura: 13
+[2021-10-21 00:20:41] [INFO]: Tempo: ps
+[2021-10-21 00:20:41] [INFO]: Umidade: 86
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:41] [INFO]: Título: Lucas lindo
+[2021-10-21 00:20:41] [INFO]: Descrição: lucas API
+[2021-10-21 00:20:41] [INFO]: Nível: alto
+[2021-10-21 00:20:41] [INFO]: Longitude: 15856676
+[2021-10-21 00:20:41] [INFO]: Latitude: 455465
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1021
+[2021-10-21 00:20:41] [INFO]: Temperatura: 13
+[2021-10-21 00:20:41] [INFO]: Tempo: ps
+[2021-10-21 00:20:41] [INFO]: Umidade: 86
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:41] [INFO]: Título: Lucas lindo
+[2021-10-21 00:20:41] [INFO]: Descrição: lucas API
+[2021-10-21 00:20:41] [INFO]: Nível: alto
+[2021-10-21 00:20:41] [INFO]: Longitude: 15856676
+[2021-10-21 00:20:41] [INFO]: Latitude: 455465
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1021
+[2021-10-21 00:20:41] [INFO]: Temperatura: 13
+[2021-10-21 00:20:41] [INFO]: Tempo: ps
+[2021-10-21 00:20:41] [INFO]: Umidade: 86
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:41] [INFO]: Título: Lucas lindo
+[2021-10-21 00:20:41] [INFO]: Descrição: lucas API
+[2021-10-21 00:20:41] [INFO]: Nível: alto
+[2021-10-21 00:20:41] [INFO]: Longitude: 15856676
+[2021-10-21 00:20:41] [INFO]: Latitude: 0000000000
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1021
+[2021-10-21 00:20:41] [INFO]: Temperatura: 13
+[2021-10-21 00:20:41] [INFO]: Tempo: ps
+[2021-10-21 00:20:41] [INFO]: Umidade: 86
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:41] [INFO]: Título: teste
+[2021-10-21 00:20:41] [INFO]: Descrição: testelucas
+[2021-10-21 00:20:41] [INFO]: Nível: testenivel
+[2021-10-21 00:20:41] [INFO]: Longitude: testelongitude
+[2021-10-21 00:20:41] [INFO]: Latitude: testelatitude
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1021
+[2021-10-21 00:20:41] [INFO]: Temperatura: 13
+[2021-10-21 00:20:41] [INFO]: Tempo: ps
+[2021-10-21 00:20:41] [INFO]: Umidade: 86
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:41] [INFO]: Título: Hoje
+[2021-10-21 00:20:41] [INFO]: Descrição: Testehoje
+[2021-10-21 00:20:41] [INFO]: Nível: Alto
+[2021-10-21 00:20:41] [INFO]: Longitude: 123
+[2021-10-21 00:20:41] [INFO]: Latitude: 456
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1021
+[2021-10-21 00:20:41] [INFO]: Temperatura: 13
+[2021-10-21 00:20:41] [INFO]: Tempo: ps
+[2021-10-21 00:20:41] [INFO]: Umidade: 86
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:41] [INFO]: Título: Hoje
+[2021-10-21 00:20:41] [INFO]: Descrição: 
+[2021-10-21 00:20:41] [INFO]: Nível: Alto
+[2021-10-21 00:20:41] [INFO]: Longitude: 123
+[2021-10-21 00:20:41] [INFO]: Latitude: 456
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1021
+[2021-10-21 00:20:41] [INFO]: Temperatura: 13
+[2021-10-21 00:20:41] [INFO]: Tempo: ps
+[2021-10-21 00:20:41] [INFO]: Umidade: 86
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:41] [INFO]: Título: Hoje
+[2021-10-21 00:20:41] [INFO]: Descrição: 
+[2021-10-21 00:20:41] [INFO]: Nível: Alto
+[2021-10-21 00:20:41] [INFO]: Longitude: 123
+[2021-10-21 00:20:41] [INFO]: Latitude: 456
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1021
+[2021-10-21 00:20:41] [INFO]: Temperatura: 13
+[2021-10-21 00:20:41] [INFO]: Tempo: ps
+[2021-10-21 00:20:41] [INFO]: Umidade: 86
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:41] [INFO]: Título: Hoje
+[2021-10-21 00:20:41] [INFO]: Descrição: 
+[2021-10-21 00:20:41] [INFO]: Nível: Alto
+[2021-10-21 00:20:41] [INFO]: Longitude: 123
+[2021-10-21 00:20:41] [INFO]: Latitude: 456
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1021
+[2021-10-21 00:20:41] [INFO]: Temperatura: 13
+[2021-10-21 00:20:41] [INFO]: Tempo: ps
+[2021-10-21 00:20:41] [INFO]: Umidade: 86
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:41] [INFO]: Título: Hoje
+[2021-10-21 00:20:41] [INFO]: Descrição: Testehoje
+[2021-10-21 00:20:41] [INFO]: Nível: Alto
+[2021-10-21 00:20:41] [INFO]: Longitude: 123
+[2021-10-21 00:20:41] [INFO]: Latitude: 456
+[2021-10-21 00:20:41] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:41] [INFO]: Pressão: 1021
+[2021-10-21 00:20:41] [INFO]: Temperatura: 13
+[2021-10-21 00:20:41] [INFO]: Tempo: ps
+[2021-10-21 00:20:41] [INFO]: Umidade: 86
+[2021-10-21 00:20:41] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:41] [INFO]: Finalizada consulta de dados...
+[2021-10-21 00:20:58] [INFO]: Iniciando Consulta de Dados...
+[2021-10-21 00:20:58] [WARNING]: Tentando Consultar Banco de Dados...
+[2021-10-21 00:20:58] [INFO]: Consulta realizada com sucesso...
+[2021-10-21 00:20:58] [INFO]: Título: teste
+[2021-10-21 00:20:58] [INFO]: Descrição: testelucas
+[2021-10-21 00:20:58] [INFO]: Nível: testenivel
+[2021-10-21 00:20:58] [INFO]: Longitude: testelongitude
+[2021-10-21 00:20:58] [INFO]: Latitude: testelatitude
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1021
+[2021-10-21 00:20:58] [INFO]: Temperatura: 13
+[2021-10-21 00:20:58] [INFO]: Tempo: ps
+[2021-10-21 00:20:58] [INFO]: Umidade: 86
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:58] [INFO]: Título: teste
+[2021-10-21 00:20:58] [INFO]: Descrição: testelucas
+[2021-10-21 00:20:58] [INFO]: Nível: testenivel
+[2021-10-21 00:20:58] [INFO]: Longitude: testelongitude
+[2021-10-21 00:20:58] [INFO]: Latitude: testelatitude
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 19/10/2021 20:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1023
+[2021-10-21 00:20:58] [INFO]: Temperatura: 12
+[2021-10-21 00:20:58] [INFO]: Tempo: nd
+[2021-10-21 00:20:58] [INFO]: Umidade: 94
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 5000
+[2021-10-21 00:20:58] [INFO]: Título: teste
+[2021-10-21 00:20:58] [INFO]: Descrição: testelucas
+[2021-10-21 00:20:58] [INFO]: Nível: testenivel
+[2021-10-21 00:20:58] [INFO]: Longitude: testelongitude
+[2021-10-21 00:20:58] [INFO]: Latitude: testelatitude
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1021
+[2021-10-21 00:20:58] [INFO]: Temperatura: 13
+[2021-10-21 00:20:58] [INFO]: Tempo: ps
+[2021-10-21 00:20:58] [INFO]: Umidade: 86
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:58] [INFO]: Título: teste
+[2021-10-21 00:20:58] [INFO]: Descrição: testelucas
+[2021-10-21 00:20:58] [INFO]: Nível: testenivel
+[2021-10-21 00:20:58] [INFO]: Longitude: testelongitude
+[2021-10-21 00:20:58] [INFO]: Latitude: testelatitude
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 19/10/2021 21:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1023
+[2021-10-21 00:20:58] [INFO]: Temperatura: 12
+[2021-10-21 00:20:58] [INFO]: Tempo: c
+[2021-10-21 00:20:58] [INFO]: Umidade: 93
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 6000
+[2021-10-21 00:20:58] [INFO]: Título: teste
+[2021-10-21 00:20:58] [INFO]: Descrição: testelucas
+[2021-10-21 00:20:58] [INFO]: Nível: testenivel
+[2021-10-21 00:20:58] [INFO]: Longitude: testelongitude
+[2021-10-21 00:20:58] [INFO]: Latitude: testelatitude
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 19/10/2021 21:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1023
+[2021-10-21 00:20:58] [INFO]: Temperatura: 12
+[2021-10-21 00:20:58] [INFO]: Tempo: c
+[2021-10-21 00:20:58] [INFO]: Umidade: 93
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 6000
+[2021-10-21 00:20:58] [INFO]: Título: Lucas lindo
+[2021-10-21 00:20:58] [INFO]: Descrição: lucas API
+[2021-10-21 00:20:58] [INFO]: Nível: alto
+[2021-10-21 00:20:58] [INFO]: Longitude: 15856676
+[2021-10-21 00:20:58] [INFO]: Latitude: 455465
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 19/10/2021 21:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1023
+[2021-10-21 00:20:58] [INFO]: Temperatura: 12
+[2021-10-21 00:20:58] [INFO]: Tempo: c
+[2021-10-21 00:20:58] [INFO]: Umidade: 93
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 6000
+[2021-10-21 00:20:58] [INFO]: Título: Lucas lindo
+[2021-10-21 00:20:58] [INFO]: Descrição: lucas API
+[2021-10-21 00:20:58] [INFO]: Nível: alto
+[2021-10-21 00:20:58] [INFO]: Longitude: 15856676
+[2021-10-21 00:20:58] [INFO]: Latitude: 455465
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1023
+[2021-10-21 00:20:58] [INFO]: Temperatura: 12
+[2021-10-21 00:20:58] [INFO]: Tempo: c
+[2021-10-21 00:20:58] [INFO]: Umidade: 93
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 4000
+[2021-10-21 00:20:58] [INFO]: Título: Lucas lindo
+[2021-10-21 00:20:58] [INFO]: Descrição: lucas API
+[2021-10-21 00:20:58] [INFO]: Nível: alto
+[2021-10-21 00:20:58] [INFO]: Longitude: 15856676
+[2021-10-21 00:20:58] [INFO]: Latitude: 455465
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1023
+[2021-10-21 00:20:58] [INFO]: Temperatura: 12
+[2021-10-21 00:20:58] [INFO]: Tempo: c
+[2021-10-21 00:20:58] [INFO]: Umidade: 93
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 4000
+[2021-10-21 00:20:58] [INFO]: Título: teste
+[2021-10-21 00:20:58] [INFO]: Descrição: testelucas
+[2021-10-21 00:20:58] [INFO]: Nível: testenivel
+[2021-10-21 00:20:58] [INFO]: Longitude: testelongitude
+[2021-10-21 00:20:58] [INFO]: Latitude: testelatitude
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1023
+[2021-10-21 00:20:58] [INFO]: Temperatura: 12
+[2021-10-21 00:20:58] [INFO]: Tempo: c
+[2021-10-21 00:20:58] [INFO]: Umidade: 93
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 4000
+[2021-10-21 00:20:58] [INFO]: Título: teste
+[2021-10-21 00:20:58] [INFO]: Descrição: testelucas
+[2021-10-21 00:20:58] [INFO]: Nível: testenivel
+[2021-10-21 00:20:58] [INFO]: Longitude: testelongitude
+[2021-10-21 00:20:58] [INFO]: Latitude: testelatitude
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1023
+[2021-10-21 00:20:58] [INFO]: Temperatura: 12
+[2021-10-21 00:20:58] [INFO]: Tempo: c
+[2021-10-21 00:20:58] [INFO]: Umidade: 93
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 4000
+[2021-10-21 00:20:58] [INFO]: Título: teste
+[2021-10-21 00:20:58] [INFO]: Descrição: testelucas
+[2021-10-21 00:20:58] [INFO]: Nível: testenivel
+[2021-10-21 00:20:58] [INFO]: Longitude: testelongitude
+[2021-10-21 00:20:58] [INFO]: Latitude: testelatitude
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1023
+[2021-10-21 00:20:58] [INFO]: Temperatura: 12
+[2021-10-21 00:20:58] [INFO]: Tempo: c
+[2021-10-21 00:20:58] [INFO]: Umidade: 93
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 4000
+[2021-10-21 00:20:58] [INFO]: Título: teste
+[2021-10-21 00:20:58] [INFO]: Descrição: testelucas
+[2021-10-21 00:20:58] [INFO]: Nível: testenivel
+[2021-10-21 00:20:58] [INFO]: Longitude: testelongitude
+[2021-10-21 00:20:58] [INFO]: Latitude: testelatitude
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1023
+[2021-10-21 00:20:58] [INFO]: Temperatura: 12
+[2021-10-21 00:20:58] [INFO]: Tempo: c
+[2021-10-21 00:20:58] [INFO]: Umidade: 93
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 4000
+[2021-10-21 00:20:58] [INFO]: Título: Lucas lindo
+[2021-10-21 00:20:58] [INFO]: Descrição: lucas API
+[2021-10-21 00:20:58] [INFO]: Nível: alto
+[2021-10-21 00:20:58] [INFO]: Longitude: 15856676
+[2021-10-21 00:20:58] [INFO]: Latitude: 455465
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1023
+[2021-10-21 00:20:58] [INFO]: Temperatura: 12
+[2021-10-21 00:20:58] [INFO]: Tempo: c
+[2021-10-21 00:20:58] [INFO]: Umidade: 93
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 4000
+[2021-10-21 00:20:58] [INFO]: Título: Lucas lindo
+[2021-10-21 00:20:58] [INFO]: Descrição: lucas API
+[2021-10-21 00:20:58] [INFO]: Nível: alto
+[2021-10-21 00:20:58] [INFO]: Longitude: 15856676
+[2021-10-21 00:20:58] [INFO]: Latitude: 455465
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1023
+[2021-10-21 00:20:58] [INFO]: Temperatura: 12
+[2021-10-21 00:20:58] [INFO]: Tempo: c
+[2021-10-21 00:20:58] [INFO]: Umidade: 93
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 4000
+[2021-10-21 00:20:58] [INFO]: Título: Lucas lindo
+[2021-10-21 00:20:58] [INFO]: Descrição: lucas API
+[2021-10-21 00:20:58] [INFO]: Nível: alto
+[2021-10-21 00:20:58] [INFO]: Longitude: 15856676
+[2021-10-21 00:20:58] [INFO]: Latitude: 455465
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1023
+[2021-10-21 00:20:58] [INFO]: Temperatura: 12
+[2021-10-21 00:20:58] [INFO]: Tempo: c
+[2021-10-21 00:20:58] [INFO]: Umidade: 93
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 4000
+[2021-10-21 00:20:58] [INFO]: Título: Lucas lindo
+[2021-10-21 00:20:58] [INFO]: Descrição: lucas API
+[2021-10-21 00:20:58] [INFO]: Nível: alto
+[2021-10-21 00:20:58] [INFO]: Longitude: 15856676
+[2021-10-21 00:20:58] [INFO]: Latitude: 455465
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1021
+[2021-10-21 00:20:58] [INFO]: Temperatura: 13
+[2021-10-21 00:20:58] [INFO]: Tempo: ps
+[2021-10-21 00:20:58] [INFO]: Umidade: 86
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:58] [INFO]: Título: Lucas lindo
+[2021-10-21 00:20:58] [INFO]: Descrição: lucas API
+[2021-10-21 00:20:58] [INFO]: Nível: alto
+[2021-10-21 00:20:58] [INFO]: Longitude: 15856676
+[2021-10-21 00:20:58] [INFO]: Latitude: 455465
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1021
+[2021-10-21 00:20:58] [INFO]: Temperatura: 13
+[2021-10-21 00:20:58] [INFO]: Tempo: ps
+[2021-10-21 00:20:58] [INFO]: Umidade: 86
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:58] [INFO]: Título: Lucas lindo
+[2021-10-21 00:20:58] [INFO]: Descrição: lucas API
+[2021-10-21 00:20:58] [INFO]: Nível: alto
+[2021-10-21 00:20:58] [INFO]: Longitude: 15856676
+[2021-10-21 00:20:58] [INFO]: Latitude: 455465
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1021
+[2021-10-21 00:20:58] [INFO]: Temperatura: 13
+[2021-10-21 00:20:58] [INFO]: Tempo: ps
+[2021-10-21 00:20:58] [INFO]: Umidade: 86
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:58] [INFO]: Título: Lucas lindo
+[2021-10-21 00:20:58] [INFO]: Descrição: lucas API
+[2021-10-21 00:20:58] [INFO]: Nível: alto
+[2021-10-21 00:20:58] [INFO]: Longitude: 15856676
+[2021-10-21 00:20:58] [INFO]: Latitude: 455465
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1021
+[2021-10-21 00:20:58] [INFO]: Temperatura: 13
+[2021-10-21 00:20:58] [INFO]: Tempo: ps
+[2021-10-21 00:20:58] [INFO]: Umidade: 86
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:58] [INFO]: Título: Lucas lindo
+[2021-10-21 00:20:58] [INFO]: Descrição: lucas API
+[2021-10-21 00:20:58] [INFO]: Nível: alto
+[2021-10-21 00:20:58] [INFO]: Longitude: 15856676
+[2021-10-21 00:20:58] [INFO]: Latitude: 0000000000
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1021
+[2021-10-21 00:20:58] [INFO]: Temperatura: 13
+[2021-10-21 00:20:58] [INFO]: Tempo: ps
+[2021-10-21 00:20:58] [INFO]: Umidade: 86
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:58] [INFO]: Título: teste
+[2021-10-21 00:20:58] [INFO]: Descrição: testelucas
+[2021-10-21 00:20:58] [INFO]: Nível: testenivel
+[2021-10-21 00:20:58] [INFO]: Longitude: testelongitude
+[2021-10-21 00:20:58] [INFO]: Latitude: testelatitude
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1021
+[2021-10-21 00:20:58] [INFO]: Temperatura: 13
+[2021-10-21 00:20:58] [INFO]: Tempo: ps
+[2021-10-21 00:20:58] [INFO]: Umidade: 86
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:58] [INFO]: Título: Hoje
+[2021-10-21 00:20:58] [INFO]: Descrição: Testehoje
+[2021-10-21 00:20:58] [INFO]: Nível: Alto
+[2021-10-21 00:20:58] [INFO]: Longitude: 123
+[2021-10-21 00:20:58] [INFO]: Latitude: 456
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1021
+[2021-10-21 00:20:58] [INFO]: Temperatura: 13
+[2021-10-21 00:20:58] [INFO]: Tempo: ps
+[2021-10-21 00:20:58] [INFO]: Umidade: 86
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:58] [INFO]: Título: Hoje
+[2021-10-21 00:20:58] [INFO]: Descrição: 
+[2021-10-21 00:20:58] [INFO]: Nível: Alto
+[2021-10-21 00:20:58] [INFO]: Longitude: 123
+[2021-10-21 00:20:58] [INFO]: Latitude: 456
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1021
+[2021-10-21 00:20:58] [INFO]: Temperatura: 13
+[2021-10-21 00:20:58] [INFO]: Tempo: ps
+[2021-10-21 00:20:58] [INFO]: Umidade: 86
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:58] [INFO]: Título: Hoje
+[2021-10-21 00:20:58] [INFO]: Descrição: 
+[2021-10-21 00:20:58] [INFO]: Nível: Alto
+[2021-10-21 00:20:58] [INFO]: Longitude: 123
+[2021-10-21 00:20:58] [INFO]: Latitude: 456
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1021
+[2021-10-21 00:20:58] [INFO]: Temperatura: 13
+[2021-10-21 00:20:58] [INFO]: Tempo: ps
+[2021-10-21 00:20:58] [INFO]: Umidade: 86
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:58] [INFO]: Título: Hoje
+[2021-10-21 00:20:58] [INFO]: Descrição: 
+[2021-10-21 00:20:58] [INFO]: Nível: Alto
+[2021-10-21 00:20:58] [INFO]: Longitude: 123
+[2021-10-21 00:20:58] [INFO]: Latitude: 456
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1021
+[2021-10-21 00:20:58] [INFO]: Temperatura: 13
+[2021-10-21 00:20:58] [INFO]: Tempo: ps
+[2021-10-21 00:20:58] [INFO]: Umidade: 86
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:58] [INFO]: Título: Hoje
+[2021-10-21 00:20:58] [INFO]: Descrição: Testehoje
+[2021-10-21 00:20:58] [INFO]: Nível: Alto
+[2021-10-21 00:20:58] [INFO]: Longitude: 123
+[2021-10-21 00:20:58] [INFO]: Latitude: 456
+[2021-10-21 00:20:58] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:20:58] [INFO]: Pressão: 1021
+[2021-10-21 00:20:58] [INFO]: Temperatura: 13
+[2021-10-21 00:20:58] [INFO]: Tempo: ps
+[2021-10-21 00:20:58] [INFO]: Umidade: 86
+[2021-10-21 00:20:58] [INFO]: Visibilidade: 0
+[2021-10-21 00:20:58] [INFO]: Finalizada consulta de dados...
+[2021-10-21 00:21:13] [INFO]: Iniciando Consulta de Dados...
+[2021-10-21 00:21:13] [WARNING]: Tentando Consultar Banco de Dados...
+[2021-10-21 00:21:13] [INFO]: Consulta realizada com sucesso...
+[2021-10-21 00:21:13] [INFO]: Título: 
+[2021-10-21 00:21:13] [INFO]: Descrição: 
+[2021-10-21 00:21:13] [INFO]: Nível: 
+[2021-10-21 00:21:13] [INFO]: Longitude: 
+[2021-10-21 00:21:13] [INFO]: Latitude: 
+[2021-10-21 00:21:13] [INFO]: Data Atualização: 
+[2021-10-21 00:21:13] [INFO]: Pressão: 
+[2021-10-21 00:21:13] [INFO]: Temperatura: 
+[2021-10-21 00:21:13] [INFO]: Tempo: 
+[2021-10-21 00:21:13] [INFO]: Umidade: 
+[2021-10-21 00:21:13] [INFO]: Visibilidade: 
+[2021-10-21 00:21:13] [INFO]: Título: 
+[2021-10-21 00:21:13] [INFO]: Descrição: 
+[2021-10-21 00:21:13] [INFO]: Nível: 
+[2021-10-21 00:21:13] [INFO]: Longitude: 
+[2021-10-21 00:21:13] [INFO]: Latitude: 
+[2021-10-21 00:21:13] [INFO]: Data Atualização: 
+[2021-10-21 00:21:13] [INFO]: Pressão: 
+[2021-10-21 00:21:13] [INFO]: Temperatura: 
+[2021-10-21 00:21:13] [INFO]: Tempo: 
+[2021-10-21 00:21:13] [INFO]: Umidade: 
+[2021-10-21 00:21:13] [INFO]: Visibilidade: 
+[2021-10-21 00:21:13] [INFO]: Título: 
+[2021-10-21 00:21:13] [INFO]: Descrição: 
+[2021-10-21 00:21:13] [INFO]: Nível: 
+[2021-10-21 00:21:13] [INFO]: Longitude: 
+[2021-10-21 00:21:13] [INFO]: Latitude: 
+[2021-10-21 00:21:13] [INFO]: Data Atualização: 
+[2021-10-21 00:21:13] [INFO]: Pressão: 
+[2021-10-21 00:21:13] [INFO]: Temperatura: 
+[2021-10-21 00:21:13] [INFO]: Tempo: 
+[2021-10-21 00:21:13] [INFO]: Umidade: 
+[2021-10-21 00:21:13] [INFO]: Visibilidade: 
+[2021-10-21 00:21:13] [INFO]: Título: 
+[2021-10-21 00:21:13] [INFO]: Descrição: 
+[2021-10-21 00:21:13] [INFO]: Nível: 
+[2021-10-21 00:21:13] [INFO]: Longitude: 
+[2021-10-21 00:21:13] [INFO]: Latitude: 
+[2021-10-21 00:21:13] [INFO]: Data Atualização: 
+[2021-10-21 00:21:13] [INFO]: Pressão: 
+[2021-10-21 00:21:13] [INFO]: Temperatura: 
+[2021-10-21 00:21:13] [INFO]: Tempo: 
+[2021-10-21 00:21:13] [INFO]: Umidade: 
+[2021-10-21 00:21:13] [INFO]: Visibilidade: 
+[2021-10-21 00:21:13] [INFO]: Título: 
+[2021-10-21 00:21:13] [INFO]: Descrição: 
+[2021-10-21 00:21:13] [INFO]: Nível: 
+[2021-10-21 00:21:13] [INFO]: Longitude: 
+[2021-10-21 00:21:13] [INFO]: Latitude: 
+[2021-10-21 00:21:13] [INFO]: Data Atualização: 
+[2021-10-21 00:21:13] [INFO]: Pressão: 
+[2021-10-21 00:21:13] [INFO]: Temperatura: 
+[2021-10-21 00:21:13] [INFO]: Tempo: 
+[2021-10-21 00:21:13] [INFO]: Umidade: 
+[2021-10-21 00:21:13] [INFO]: Visibilidade: 
+[2021-10-21 00:21:13] [INFO]: Título: 
+[2021-10-21 00:21:13] [INFO]: Descrição: 
+[2021-10-21 00:21:13] [INFO]: Nível: 
+[2021-10-21 00:21:13] [INFO]: Longitude: 
+[2021-10-21 00:21:13] [INFO]: Latitude: 
+[2021-10-21 00:21:13] [INFO]: Data Atualização: 
+[2021-10-21 00:21:13] [INFO]: Pressão: 
+[2021-10-21 00:21:13] [INFO]: Temperatura: 
+[2021-10-21 00:21:13] [INFO]: Tempo: 
+[2021-10-21 00:21:13] [INFO]: Umidade: 
+[2021-10-21 00:21:13] [INFO]: Visibilidade: 
+[2021-10-21 00:21:13] [INFO]: Título: 
+[2021-10-21 00:21:13] [INFO]: Descrição: 
+[2021-10-21 00:21:13] [INFO]: Nível: 
+[2021-10-21 00:21:13] [INFO]: Longitude: 
+[2021-10-21 00:21:13] [INFO]: Latitude: 
+[2021-10-21 00:21:13] [INFO]: Data Atualização: 
+[2021-10-21 00:21:13] [INFO]: Pressão: 
+[2021-10-21 00:21:13] [INFO]: Temperatura: 
+[2021-10-21 00:21:13] [INFO]: Tempo: 
+[2021-10-21 00:21:13] [INFO]: Umidade: 
+[2021-10-21 00:21:13] [INFO]: Visibilidade: 
+[2021-10-21 00:21:13] [INFO]: Título: 
+[2021-10-21 00:21:13] [INFO]: Descrição: 
+[2021-10-21 00:21:13] [INFO]: Nível: 
+[2021-10-21 00:21:13] [INFO]: Longitude: 
+[2021-10-21 00:21:13] [INFO]: Latitude: 
+[2021-10-21 00:21:13] [INFO]: Data Atualização: 
+[2021-10-21 00:21:13] [INFO]: Pressão: 
+[2021-10-21 00:21:13] [INFO]: Temperatura: 
+[2021-10-21 00:21:13] [INFO]: Tempo: 
+[2021-10-21 00:21:13] [INFO]: Umidade: 
+[2021-10-21 00:21:13] [INFO]: Visibilidade: 
+[2021-10-21 00:21:13] [INFO]: Título: 
+[2021-10-21 00:21:13] [INFO]: Descrição: 
+[2021-10-21 00:21:13] [INFO]: Nível: 
+[2021-10-21 00:21:13] [INFO]: Longitude: 
+[2021-10-21 00:21:13] [INFO]: Latitude: 
+[2021-10-21 00:21:13] [INFO]: Data Atualização: 
+[2021-10-21 00:21:13] [INFO]: Pressão: 
+[2021-10-21 00:21:13] [INFO]: Temperatura: 
+[2021-10-21 00:21:13] [INFO]: Tempo: 
+[2021-10-21 00:21:13] [INFO]: Umidade: 
+[2021-10-21 00:21:13] [INFO]: Visibilidade: 
+[2021-10-21 00:21:13] [INFO]: Título: 
+[2021-10-21 00:21:13] [INFO]: Descrição: 
+[2021-10-21 00:21:13] [INFO]: Nível: 
+[2021-10-21 00:21:13] [INFO]: Longitude: 
+[2021-10-21 00:21:13] [INFO]: Latitude: 
+[2021-10-21 00:21:13] [INFO]: Data Atualização: 
+[2021-10-21 00:21:13] [INFO]: Pressão: 
+[2021-10-21 00:21:13] [INFO]: Temperatura: 
+[2021-10-21 00:21:14] [INFO]: Tempo: 
+[2021-10-21 00:21:14] [INFO]: Umidade: 
+[2021-10-21 00:21:14] [INFO]: Visibilidade: 
+[2021-10-21 00:21:14] [INFO]: Título: 
+[2021-10-21 00:21:14] [INFO]: Descrição: 
+[2021-10-21 00:21:14] [INFO]: Nível: 
+[2021-10-21 00:21:14] [INFO]: Longitude: 
+[2021-10-21 00:21:14] [INFO]: Latitude: 
+[2021-10-21 00:21:14] [INFO]: Data Atualização: 
+[2021-10-21 00:21:14] [INFO]: Pressão: 
+[2021-10-21 00:21:14] [INFO]: Temperatura: 
+[2021-10-21 00:21:14] [INFO]: Tempo: 
+[2021-10-21 00:21:14] [INFO]: Umidade: 
+[2021-10-21 00:21:14] [INFO]: Visibilidade: 
+[2021-10-21 00:21:14] [INFO]: Título: 
+[2021-10-21 00:21:14] [INFO]: Descrição: 
+[2021-10-21 00:21:14] [INFO]: Nível: 
+[2021-10-21 00:21:14] [INFO]: Longitude: 
+[2021-10-21 00:21:14] [INFO]: Latitude: 
+[2021-10-21 00:21:14] [INFO]: Data Atualização: 
+[2021-10-21 00:21:14] [INFO]: Pressão: 
+[2021-10-21 00:21:14] [INFO]: Temperatura: 
+[2021-10-21 00:21:14] [INFO]: Tempo: 
+[2021-10-21 00:21:14] [INFO]: Umidade: 
+[2021-10-21 00:21:14] [INFO]: Visibilidade: 
+[2021-10-21 00:21:14] [INFO]: Título: 
+[2021-10-21 00:21:14] [INFO]: Descrição: 
+[2021-10-21 00:21:14] [INFO]: Nível: 
+[2021-10-21 00:21:14] [INFO]: Longitude: 
+[2021-10-21 00:21:14] [INFO]: Latitude: 
+[2021-10-21 00:21:14] [INFO]: Data Atualização: 
+[2021-10-21 00:21:14] [INFO]: Pressão: 
+[2021-10-21 00:21:14] [INFO]: Temperatura: 
+[2021-10-21 00:21:14] [INFO]: Tempo: 
+[2021-10-21 00:21:14] [INFO]: Umidade: 
+[2021-10-21 00:21:14] [INFO]: Visibilidade: 
+[2021-10-21 00:21:14] [INFO]: Título: 
+[2021-10-21 00:21:14] [INFO]: Descrição: 
+[2021-10-21 00:21:14] [INFO]: Nível: 
+[2021-10-21 00:21:14] [INFO]: Longitude: 
+[2021-10-21 00:21:14] [INFO]: Latitude: 
+[2021-10-21 00:21:14] [INFO]: Data Atualização: 
+[2021-10-21 00:21:14] [INFO]: Pressão: 
+[2021-10-21 00:21:14] [INFO]: Temperatura: 
+[2021-10-21 00:21:14] [INFO]: Tempo: 
+[2021-10-21 00:21:14] [INFO]: Umidade: 
+[2021-10-21 00:21:14] [INFO]: Visibilidade: 
+[2021-10-21 00:21:14] [INFO]: Título: 
+[2021-10-21 00:21:14] [INFO]: Descrição: 
+[2021-10-21 00:21:14] [INFO]: Nível: 
+[2021-10-21 00:21:14] [INFO]: Longitude: 
+[2021-10-21 00:21:14] [INFO]: Latitude: 
+[2021-10-21 00:21:14] [INFO]: Data Atualização: 
+[2021-10-21 00:21:14] [INFO]: Pressão: 
+[2021-10-21 00:21:14] [INFO]: Temperatura: 
+[2021-10-21 00:21:14] [INFO]: Tempo: 
+[2021-10-21 00:21:14] [INFO]: Umidade: 
+[2021-10-21 00:21:14] [INFO]: Visibilidade: 
+[2021-10-21 00:21:14] [INFO]: Título: 
+[2021-10-21 00:21:14] [INFO]: Descrição: 
+[2021-10-21 00:21:14] [INFO]: Nível: 
+[2021-10-21 00:21:14] [INFO]: Longitude: 
+[2021-10-21 00:21:14] [INFO]: Latitude: 
+[2021-10-21 00:21:14] [INFO]: Data Atualização: 
+[2021-10-21 00:21:14] [INFO]: Pressão: 
+[2021-10-21 00:21:14] [INFO]: Temperatura: 
+[2021-10-21 00:21:14] [INFO]: Tempo: 
+[2021-10-21 00:21:14] [INFO]: Umidade: 
+[2021-10-21 00:21:14] [INFO]: Visibilidade: 
+[2021-10-21 00:21:14] [INFO]: Título: 
+[2021-10-21 00:21:14] [INFO]: Descrição: 
+[2021-10-21 00:21:14] [INFO]: Nível: 
+[2021-10-21 00:21:14] [INFO]: Longitude: 
+[2021-10-21 00:21:14] [INFO]: Latitude: 
+[2021-10-21 00:21:14] [INFO]: Data Atualização: 
+[2021-10-21 00:21:14] [INFO]: Pressão: 
+[2021-10-21 00:21:14] [INFO]: Temperatura: 
+[2021-10-21 00:21:14] [INFO]: Tempo: 
+[2021-10-21 00:21:14] [INFO]: Umidade: 
+[2021-10-21 00:21:14] [INFO]: Visibilidade: 
+[2021-10-21 00:21:14] [INFO]: Título: 
+[2021-10-21 00:21:14] [INFO]: Descrição: 
+[2021-10-21 00:21:14] [INFO]: Nível: 
+[2021-10-21 00:21:14] [INFO]: Longitude: 
+[2021-10-21 00:21:14] [INFO]: Latitude: 
+[2021-10-21 00:21:14] [INFO]: Data Atualização: 
+[2021-10-21 00:21:14] [INFO]: Pressão: 
+[2021-10-21 00:21:14] [INFO]: Temperatura: 
+[2021-10-21 00:21:14] [INFO]: Tempo: 
+[2021-10-21 00:21:14] [INFO]: Umidade: 
+[2021-10-21 00:21:14] [INFO]: Visibilidade: 
+[2021-10-21 00:21:14] [INFO]: Título: 
+[2021-10-21 00:21:14] [INFO]: Descrição: 
+[2021-10-21 00:21:14] [INFO]: Nível: 
+[2021-10-21 00:21:14] [INFO]: Longitude: 
+[2021-10-21 00:21:14] [INFO]: Latitude: 
+[2021-10-21 00:21:14] [INFO]: Data Atualização: 
+[2021-10-21 00:21:14] [INFO]: Pressão: 
+[2021-10-21 00:21:14] [INFO]: Temperatura: 
+[2021-10-21 00:21:14] [INFO]: Tempo: 
+[2021-10-21 00:21:14] [INFO]: Umidade: 
+[2021-10-21 00:21:14] [INFO]: Visibilidade: 
+[2021-10-21 00:21:14] [INFO]: Título: 
+[2021-10-21 00:21:14] [INFO]: Descrição: 
+[2021-10-21 00:21:14] [INFO]: Nível: 
+[2021-10-21 00:21:14] [INFO]: Longitude: 
+[2021-10-21 00:21:14] [INFO]: Latitude: 
+[2021-10-21 00:21:14] [INFO]: Data Atualização: 
+[2021-10-21 00:21:14] [INFO]: Pressão: 
+[2021-10-21 00:21:14] [INFO]: Temperatura: 
+[2021-10-21 00:21:14] [INFO]: Tempo: 
+[2021-10-21 00:21:14] [INFO]: Umidade: 
+[2021-10-21 00:21:14] [INFO]: Visibilidade: 
+[2021-10-21 00:21:14] [INFO]: Título: 
+[2021-10-21 00:21:14] [INFO]: Descrição: 
+[2021-10-21 00:21:14] [INFO]: Nível: 
+[2021-10-21 00:21:14] [INFO]: Longitude: 
+[2021-10-21 00:21:14] [INFO]: Latitude: 
+[2021-10-21 00:21:14] [INFO]: Data Atualização: 
+[2021-10-21 00:21:14] [INFO]: Pressão: 
+[2021-10-21 00:21:14] [INFO]: Temperatura: 
+[2021-10-21 00:21:14] [INFO]: Tempo: 
+[2021-10-21 00:21:14] [INFO]: Umidade: 
+[2021-10-21 00:21:14] [INFO]: Visibilidade: 
+[2021-10-21 00:21:14] [INFO]: Título: 
+[2021-10-21 00:21:14] [INFO]: Descrição: 
+[2021-10-21 00:21:14] [INFO]: Nível: 
+[2021-10-21 00:21:14] [INFO]: Longitude: 
+[2021-10-21 00:21:14] [INFO]: Latitude: 
+[2021-10-21 00:21:14] [INFO]: Data Atualização: 
+[2021-10-21 00:21:14] [INFO]: Pressão: 
+[2021-10-21 00:21:14] [INFO]: Temperatura: 
+[2021-10-21 00:21:14] [INFO]: Tempo: 
+[2021-10-21 00:21:14] [INFO]: Umidade: 
+[2021-10-21 00:21:14] [INFO]: Visibilidade: 
+[2021-10-21 00:21:14] [INFO]: Título: 
+[2021-10-21 00:21:14] [INFO]: Descrição: 
+[2021-10-21 00:21:14] [INFO]: Nível: 
+[2021-10-21 00:21:14] [INFO]: Longitude: 
+[2021-10-21 00:21:14] [INFO]: Latitude: 
+[2021-10-21 00:21:14] [INFO]: Data Atualização: 
+[2021-10-21 00:21:14] [INFO]: Pressão: 
+[2021-10-21 00:21:14] [INFO]: Temperatura: 
+[2021-10-21 00:21:14] [INFO]: Tempo: 
+[2021-10-21 00:21:14] [INFO]: Umidade: 
+[2021-10-21 00:21:14] [INFO]: Visibilidade: 
+[2021-10-21 00:21:14] [INFO]: Título: 
+[2021-10-21 00:21:14] [INFO]: Descrição: 
+[2021-10-21 00:21:14] [INFO]: Nível: 
+[2021-10-21 00:21:14] [INFO]: Longitude: 
+[2021-10-21 00:21:14] [INFO]: Latitude: 
+[2021-10-21 00:21:14] [INFO]: Data Atualização: 
+[2021-10-21 00:21:14] [INFO]: Pressão: 
+[2021-10-21 00:21:14] [INFO]: Temperatura: 
+[2021-10-21 00:21:14] [INFO]: Tempo: 
+[2021-10-21 00:21:14] [INFO]: Umidade: 
+[2021-10-21 00:21:14] [INFO]: Visibilidade: 
+[2021-10-21 00:21:14] [INFO]: Título: 
+[2021-10-21 00:21:14] [INFO]: Descrição: 
+[2021-10-21 00:21:14] [INFO]: Nível: 
+[2021-10-21 00:21:14] [INFO]: Longitude: 
+[2021-10-21 00:21:14] [INFO]: Latitude: 
+[2021-10-21 00:21:14] [INFO]: Data Atualização: 
+[2021-10-21 00:21:14] [INFO]: Pressão: 
+[2021-10-21 00:21:14] [INFO]: Temperatura: 
+[2021-10-21 00:21:14] [INFO]: Tempo: 
+[2021-10-21 00:21:14] [INFO]: Umidade: 
+[2021-10-21 00:21:14] [INFO]: Visibilidade: 
+[2021-10-21 00:21:14] [INFO]: Título: 
+[2021-10-21 00:21:14] [INFO]: Descrição: 
+[2021-10-21 00:21:14] [INFO]: Nível: 
+[2021-10-21 00:21:14] [INFO]: Longitude: 
+[2021-10-21 00:21:14] [INFO]: Latitude: 
+[2021-10-21 00:21:14] [INFO]: Data Atualização: 
+[2021-10-21 00:21:14] [INFO]: Pressão: 
+[2021-10-21 00:21:14] [INFO]: Temperatura: 
+[2021-10-21 00:21:14] [INFO]: Tempo: 
+[2021-10-21 00:21:14] [INFO]: Umidade: 
+[2021-10-21 00:21:14] [INFO]: Visibilidade: 
+[2021-10-21 00:21:14] [INFO]: Finalizada consulta de dados...
+[2021-10-21 00:22:12] [INFO]: Iniciando Consulta de Dados...
+[2021-10-21 00:22:12] [WARNING]: Tentando Consultar Banco de Dados...
+[2021-10-21 00:22:12] [INFO]: Consulta realizada com sucesso...
+[2021-10-21 00:22:12] [INFO]: Título: teste
+[2021-10-21 00:22:12] [INFO]: Descrição: testelucas
+[2021-10-21 00:22:12] [INFO]: Nível: testenivel
+[2021-10-21 00:22:12] [INFO]: Longitude: testelongitude
+[2021-10-21 00:22:12] [INFO]: Latitude: testelatitude
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1021
+[2021-10-21 00:22:12] [INFO]: Temperatura: 13
+[2021-10-21 00:22:12] [INFO]: Tempo: ps
+[2021-10-21 00:22:12] [INFO]: Umidade: 86
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 0
+[2021-10-21 00:22:12] [INFO]: Título: teste
+[2021-10-21 00:22:12] [INFO]: Descrição: testelucas
+[2021-10-21 00:22:12] [INFO]: Nível: testenivel
+[2021-10-21 00:22:12] [INFO]: Longitude: testelongitude
+[2021-10-21 00:22:12] [INFO]: Latitude: testelatitude
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 19/10/2021 20:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1023
+[2021-10-21 00:22:12] [INFO]: Temperatura: 12
+[2021-10-21 00:22:12] [INFO]: Tempo: nd
+[2021-10-21 00:22:12] [INFO]: Umidade: 94
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 5000
+[2021-10-21 00:22:12] [INFO]: Título: teste
+[2021-10-21 00:22:12] [INFO]: Descrição: testelucas
+[2021-10-21 00:22:12] [INFO]: Nível: testenivel
+[2021-10-21 00:22:12] [INFO]: Longitude: testelongitude
+[2021-10-21 00:22:12] [INFO]: Latitude: testelatitude
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1021
+[2021-10-21 00:22:12] [INFO]: Temperatura: 13
+[2021-10-21 00:22:12] [INFO]: Tempo: ps
+[2021-10-21 00:22:12] [INFO]: Umidade: 86
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 0
+[2021-10-21 00:22:12] [INFO]: Título: teste
+[2021-10-21 00:22:12] [INFO]: Descrição: testelucas
+[2021-10-21 00:22:12] [INFO]: Nível: testenivel
+[2021-10-21 00:22:12] [INFO]: Longitude: testelongitude
+[2021-10-21 00:22:12] [INFO]: Latitude: testelatitude
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 19/10/2021 21:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1023
+[2021-10-21 00:22:12] [INFO]: Temperatura: 12
+[2021-10-21 00:22:12] [INFO]: Tempo: c
+[2021-10-21 00:22:12] [INFO]: Umidade: 93
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 6000
+[2021-10-21 00:22:12] [INFO]: Título: teste
+[2021-10-21 00:22:12] [INFO]: Descrição: testelucas
+[2021-10-21 00:22:12] [INFO]: Nível: testenivel
+[2021-10-21 00:22:12] [INFO]: Longitude: testelongitude
+[2021-10-21 00:22:12] [INFO]: Latitude: testelatitude
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 19/10/2021 21:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1023
+[2021-10-21 00:22:12] [INFO]: Temperatura: 12
+[2021-10-21 00:22:12] [INFO]: Tempo: c
+[2021-10-21 00:22:12] [INFO]: Umidade: 93
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 6000
+[2021-10-21 00:22:12] [INFO]: Título: Lucas lindo
+[2021-10-21 00:22:12] [INFO]: Descrição: lucas API
+[2021-10-21 00:22:12] [INFO]: Nível: alto
+[2021-10-21 00:22:12] [INFO]: Longitude: 15856676
+[2021-10-21 00:22:12] [INFO]: Latitude: 455465
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 19/10/2021 21:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1023
+[2021-10-21 00:22:12] [INFO]: Temperatura: 12
+[2021-10-21 00:22:12] [INFO]: Tempo: c
+[2021-10-21 00:22:12] [INFO]: Umidade: 93
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 6000
+[2021-10-21 00:22:12] [INFO]: Título: Lucas lindo
+[2021-10-21 00:22:12] [INFO]: Descrição: lucas API
+[2021-10-21 00:22:12] [INFO]: Nível: alto
+[2021-10-21 00:22:12] [INFO]: Longitude: 15856676
+[2021-10-21 00:22:12] [INFO]: Latitude: 455465
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1023
+[2021-10-21 00:22:12] [INFO]: Temperatura: 12
+[2021-10-21 00:22:12] [INFO]: Tempo: c
+[2021-10-21 00:22:12] [INFO]: Umidade: 93
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 4000
+[2021-10-21 00:22:12] [INFO]: Título: Lucas lindo
+[2021-10-21 00:22:12] [INFO]: Descrição: lucas API
+[2021-10-21 00:22:12] [INFO]: Nível: alto
+[2021-10-21 00:22:12] [INFO]: Longitude: 15856676
+[2021-10-21 00:22:12] [INFO]: Latitude: 455465
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1023
+[2021-10-21 00:22:12] [INFO]: Temperatura: 12
+[2021-10-21 00:22:12] [INFO]: Tempo: c
+[2021-10-21 00:22:12] [INFO]: Umidade: 93
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 4000
+[2021-10-21 00:22:12] [INFO]: Título: teste
+[2021-10-21 00:22:12] [INFO]: Descrição: testelucas
+[2021-10-21 00:22:12] [INFO]: Nível: testenivel
+[2021-10-21 00:22:12] [INFO]: Longitude: testelongitude
+[2021-10-21 00:22:12] [INFO]: Latitude: testelatitude
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1023
+[2021-10-21 00:22:12] [INFO]: Temperatura: 12
+[2021-10-21 00:22:12] [INFO]: Tempo: c
+[2021-10-21 00:22:12] [INFO]: Umidade: 93
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 4000
+[2021-10-21 00:22:12] [INFO]: Título: teste
+[2021-10-21 00:22:12] [INFO]: Descrição: testelucas
+[2021-10-21 00:22:12] [INFO]: Nível: testenivel
+[2021-10-21 00:22:12] [INFO]: Longitude: testelongitude
+[2021-10-21 00:22:12] [INFO]: Latitude: testelatitude
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1023
+[2021-10-21 00:22:12] [INFO]: Temperatura: 12
+[2021-10-21 00:22:12] [INFO]: Tempo: c
+[2021-10-21 00:22:12] [INFO]: Umidade: 93
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 4000
+[2021-10-21 00:22:12] [INFO]: Título: teste
+[2021-10-21 00:22:12] [INFO]: Descrição: testelucas
+[2021-10-21 00:22:12] [INFO]: Nível: testenivel
+[2021-10-21 00:22:12] [INFO]: Longitude: testelongitude
+[2021-10-21 00:22:12] [INFO]: Latitude: testelatitude
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1023
+[2021-10-21 00:22:12] [INFO]: Temperatura: 12
+[2021-10-21 00:22:12] [INFO]: Tempo: c
+[2021-10-21 00:22:12] [INFO]: Umidade: 93
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 4000
+[2021-10-21 00:22:12] [INFO]: Título: teste
+[2021-10-21 00:22:12] [INFO]: Descrição: testelucas
+[2021-10-21 00:22:12] [INFO]: Nível: testenivel
+[2021-10-21 00:22:12] [INFO]: Longitude: testelongitude
+[2021-10-21 00:22:12] [INFO]: Latitude: testelatitude
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1023
+[2021-10-21 00:22:12] [INFO]: Temperatura: 12
+[2021-10-21 00:22:12] [INFO]: Tempo: c
+[2021-10-21 00:22:12] [INFO]: Umidade: 93
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 4000
+[2021-10-21 00:22:12] [INFO]: Título: Lucas lindo
+[2021-10-21 00:22:12] [INFO]: Descrição: lucas API
+[2021-10-21 00:22:12] [INFO]: Nível: alto
+[2021-10-21 00:22:12] [INFO]: Longitude: 15856676
+[2021-10-21 00:22:12] [INFO]: Latitude: 455465
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1023
+[2021-10-21 00:22:12] [INFO]: Temperatura: 12
+[2021-10-21 00:22:12] [INFO]: Tempo: c
+[2021-10-21 00:22:12] [INFO]: Umidade: 93
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 4000
+[2021-10-21 00:22:12] [INFO]: Título: Lucas lindo
+[2021-10-21 00:22:12] [INFO]: Descrição: lucas API
+[2021-10-21 00:22:12] [INFO]: Nível: alto
+[2021-10-21 00:22:12] [INFO]: Longitude: 15856676
+[2021-10-21 00:22:12] [INFO]: Latitude: 455465
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1023
+[2021-10-21 00:22:12] [INFO]: Temperatura: 12
+[2021-10-21 00:22:12] [INFO]: Tempo: c
+[2021-10-21 00:22:12] [INFO]: Umidade: 93
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 4000
+[2021-10-21 00:22:12] [INFO]: Título: Lucas lindo
+[2021-10-21 00:22:12] [INFO]: Descrição: lucas API
+[2021-10-21 00:22:12] [INFO]: Nível: alto
+[2021-10-21 00:22:12] [INFO]: Longitude: 15856676
+[2021-10-21 00:22:12] [INFO]: Latitude: 455465
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 19/10/2021 22:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1023
+[2021-10-21 00:22:12] [INFO]: Temperatura: 12
+[2021-10-21 00:22:12] [INFO]: Tempo: c
+[2021-10-21 00:22:12] [INFO]: Umidade: 93
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 4000
+[2021-10-21 00:22:12] [INFO]: Título: Lucas lindo
+[2021-10-21 00:22:12] [INFO]: Descrição: lucas API
+[2021-10-21 00:22:12] [INFO]: Nível: alto
+[2021-10-21 00:22:12] [INFO]: Longitude: 15856676
+[2021-10-21 00:22:12] [INFO]: Latitude: 455465
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1021
+[2021-10-21 00:22:12] [INFO]: Temperatura: 13
+[2021-10-21 00:22:12] [INFO]: Tempo: ps
+[2021-10-21 00:22:12] [INFO]: Umidade: 86
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 0
+[2021-10-21 00:22:12] [INFO]: Título: Lucas lindo
+[2021-10-21 00:22:12] [INFO]: Descrição: lucas API
+[2021-10-21 00:22:12] [INFO]: Nível: alto
+[2021-10-21 00:22:12] [INFO]: Longitude: 15856676
+[2021-10-21 00:22:12] [INFO]: Latitude: 455465
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1021
+[2021-10-21 00:22:12] [INFO]: Temperatura: 13
+[2021-10-21 00:22:12] [INFO]: Tempo: ps
+[2021-10-21 00:22:12] [INFO]: Umidade: 86
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 0
+[2021-10-21 00:22:12] [INFO]: Título: Lucas lindo
+[2021-10-21 00:22:12] [INFO]: Descrição: lucas API
+[2021-10-21 00:22:12] [INFO]: Nível: alto
+[2021-10-21 00:22:12] [INFO]: Longitude: 15856676
+[2021-10-21 00:22:12] [INFO]: Latitude: 455465
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1021
+[2021-10-21 00:22:12] [INFO]: Temperatura: 13
+[2021-10-21 00:22:12] [INFO]: Tempo: ps
+[2021-10-21 00:22:12] [INFO]: Umidade: 86
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 0
+[2021-10-21 00:22:12] [INFO]: Título: Lucas lindo
+[2021-10-21 00:22:12] [INFO]: Descrição: lucas API
+[2021-10-21 00:22:12] [INFO]: Nível: alto
+[2021-10-21 00:22:12] [INFO]: Longitude: 15856676
+[2021-10-21 00:22:12] [INFO]: Latitude: 455465
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1021
+[2021-10-21 00:22:12] [INFO]: Temperatura: 13
+[2021-10-21 00:22:12] [INFO]: Tempo: ps
+[2021-10-21 00:22:12] [INFO]: Umidade: 86
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 0
+[2021-10-21 00:22:12] [INFO]: Título: Lucas lindo
+[2021-10-21 00:22:12] [INFO]: Descrição: lucas API
+[2021-10-21 00:22:12] [INFO]: Nível: alto
+[2021-10-21 00:22:12] [INFO]: Longitude: 15856676
+[2021-10-21 00:22:12] [INFO]: Latitude: 0000000000
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1021
+[2021-10-21 00:22:12] [INFO]: Temperatura: 13
+[2021-10-21 00:22:12] [INFO]: Tempo: ps
+[2021-10-21 00:22:12] [INFO]: Umidade: 86
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 0
+[2021-10-21 00:22:12] [INFO]: Título: teste
+[2021-10-21 00:22:12] [INFO]: Descrição: testelucas
+[2021-10-21 00:22:12] [INFO]: Nível: testenivel
+[2021-10-21 00:22:12] [INFO]: Longitude: testelongitude
+[2021-10-21 00:22:12] [INFO]: Latitude: testelatitude
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1021
+[2021-10-21 00:22:12] [INFO]: Temperatura: 13
+[2021-10-21 00:22:12] [INFO]: Tempo: ps
+[2021-10-21 00:22:12] [INFO]: Umidade: 86
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 0
+[2021-10-21 00:22:12] [INFO]: Título: Hoje
+[2021-10-21 00:22:12] [INFO]: Descrição: Testehoje
+[2021-10-21 00:22:12] [INFO]: Nível: Alto
+[2021-10-21 00:22:12] [INFO]: Longitude: 123
+[2021-10-21 00:22:12] [INFO]: Latitude: 456
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1021
+[2021-10-21 00:22:12] [INFO]: Temperatura: 13
+[2021-10-21 00:22:12] [INFO]: Tempo: ps
+[2021-10-21 00:22:12] [INFO]: Umidade: 86
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 0
+[2021-10-21 00:22:12] [INFO]: Título: Hoje
+[2021-10-21 00:22:12] [INFO]: Descrição: 
+[2021-10-21 00:22:12] [INFO]: Nível: Alto
+[2021-10-21 00:22:12] [INFO]: Longitude: 123
+[2021-10-21 00:22:12] [INFO]: Latitude: 456
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1021
+[2021-10-21 00:22:12] [INFO]: Temperatura: 13
+[2021-10-21 00:22:12] [INFO]: Tempo: ps
+[2021-10-21 00:22:12] [INFO]: Umidade: 86
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 0
+[2021-10-21 00:22:12] [INFO]: Título: Hoje
+[2021-10-21 00:22:12] [INFO]: Descrição: 
+[2021-10-21 00:22:12] [INFO]: Nível: Alto
+[2021-10-21 00:22:12] [INFO]: Longitude: 123
+[2021-10-21 00:22:12] [INFO]: Latitude: 456
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1021
+[2021-10-21 00:22:12] [INFO]: Temperatura: 13
+[2021-10-21 00:22:12] [INFO]: Tempo: ps
+[2021-10-21 00:22:12] [INFO]: Umidade: 86
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 0
+[2021-10-21 00:22:12] [INFO]: Título: Hoje
+[2021-10-21 00:22:12] [INFO]: Descrição: 
+[2021-10-21 00:22:12] [INFO]: Nível: Alto
+[2021-10-21 00:22:12] [INFO]: Longitude: 123
+[2021-10-21 00:22:12] [INFO]: Latitude: 456
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1021
+[2021-10-21 00:22:12] [INFO]: Temperatura: 13
+[2021-10-21 00:22:12] [INFO]: Tempo: ps
+[2021-10-21 00:22:12] [INFO]: Umidade: 86
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 0
+[2021-10-21 00:22:12] [INFO]: Título: Hoje
+[2021-10-21 00:22:12] [INFO]: Descrição: Testehoje
+[2021-10-21 00:22:12] [INFO]: Nível: Alto
+[2021-10-21 00:22:12] [INFO]: Longitude: 123
+[2021-10-21 00:22:12] [INFO]: Latitude: 456
+[2021-10-21 00:22:12] [INFO]: Data Atualização: 20/10/2021 19:00:00
+[2021-10-21 00:22:12] [INFO]: Pressão: 1021
+[2021-10-21 00:22:12] [INFO]: Temperatura: 13
+[2021-10-21 00:22:12] [INFO]: Tempo: ps
+[2021-10-21 00:22:12] [INFO]: Umidade: 86
+[2021-10-21 00:22:12] [INFO]: Visibilidade: 0
+[2021-10-21 00:22:12] [INFO]: Finalizada consulta de dados...
