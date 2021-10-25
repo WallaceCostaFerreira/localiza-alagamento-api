@@ -25,6 +25,10 @@
     logMsg("Longitude: ".$_GET['longitude']);
     logMsg("Latitude: ".$_GET['latitude']);
 
+    // $timestampNew = str_replace('/', '-', $timestamp)
+    $atualizacao = new DateTime(str_replace('/', '-', $xml -> atualizacao));
+    $atualizacao = $atualizacao->format('Y-m-d H:i:s');
+    // echo "<pre>";print_r($atualizacao);die;
     //Armazenando todos os dados no banco de dados
     $sql = "INSERT INTO alagamentos (titulo, descricao, nivel, longitude, latitude, dataAtualizacao, pressao, temperatura, tempo, umidade, visibilidade ) 
             VALUES ('".$_GET['titulo']."', 
@@ -32,7 +36,7 @@
                     '".$_GET['nivel']."', 
                     '".$_GET['longitude']."', 
                     '".$_GET['latitude']."', 
-                    '".$xml -> atualizacao."', 
+                    '".$atualizacao."', 
                     '".$xml -> pressao."', 
                     '".$xml -> temperatura."', 
                     '".$xml -> tempo."', 
