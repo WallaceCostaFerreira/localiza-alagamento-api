@@ -23,5 +23,5 @@ while($registro = mysqli_fetch_assoc($result))
     logMsg($registro['nivel']." - ".$registro['qtd']);
     $res[] = $registro;
 }
-logMsg("Finalizada consulta de dados...");
+logMsg("Finalizada consulta de dados por data...");
 echo json_encode($res);
