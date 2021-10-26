@@ -19,8 +19,8 @@
     logMsg("Visibilidade: ".$xml -> visibilidade);
     logMsg("--------------------------------------------");
     logMsg("Dados vindo do aplicativo...");
-    logMsg("Título: ".$_GET['titulo']);
-    logMsg("Descrição: ".$_GET['descricao']);
+    // logMsg("Título: ".$_GET['titulo']);
+    // logMsg("Descrição: ".$_GET['descricao']);
     logMsg("Nível: ".$_GET['nivel']);
     logMsg("Longitude: ".$_GET['longitude']);
     logMsg("Latitude: ".$_GET['latitude']);

@@ -14,8 +14,8 @@ logMsg("Consulta realizada com sucesso...");
 $res = array();
 while($registro = mysqli_fetch_assoc($result))
 {
-    logMsg("Título: ".$registro['titulo']);
-    logMsg("Descrição: ".$registro['descricao']);
+    // logMsg("Título: ".$registro['titulo']);
+    // logMsg("Descrição: ".$registro['descricao']);
     logMsg("Nível: ".$registro['nivel']);
     logMsg("Longitude: ".$registro['longitude']);
     logMsg("Latitude: ".$registro['latitude']);
