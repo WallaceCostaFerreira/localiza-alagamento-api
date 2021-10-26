@@ -25,7 +25,7 @@ function logMsg( $msg, $level = 'info', $file = 'main.log' )
     }
  
     // data atual
-    $date = date( 'Y-m-d H:i:s' );
+    $date = date( 'Y-m-d H:i:s', strtotime('-5 hours') );
  
     // formata a mensagem do log
     // 1o: data atual
